@@ -33,7 +33,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: Box 2
-  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     decision1: 
@@ -45,7 +45,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: Box 4
-  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     decision1: 
@@ -69,6 +69,66 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: Box 8
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: Box 9
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: Box 9
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: Box 9
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: Box 9
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: Box 9
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: Box 9
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: Box 9
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: Box 9
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: Box 9
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: Box 9
   - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
     decision: 0
     narration: 0
