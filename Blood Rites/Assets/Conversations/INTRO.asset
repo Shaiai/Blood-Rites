@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b92dd81746d0f46b57c70d003557b9, type: 3}
+  m_Name: INTRO
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+  speakerRight: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: Damnit! I was so close!
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: That house had so much loot to be taken. But I had to go and ruin it.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: I mean, who puts a priceless and easily shattered vase in the middle of
+      their hallway?
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    decision1: 
+    decision2: 
+    text: 'I look down at myself. '
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: Just my luck! My shirt has a tear in it.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    decision1: 
+    decision2: 
+    text: I set my jaw.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: "Well, at least I should have enough to get by for the next little while.
+      But I could\u2019ve been set for years!"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    decision1: 
+    decision2: 
+    text: I slinked from shadow to shadow, avoiding guards, and making my way out
+      of the noble district and back towards my hideout.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    decision1: 
+    decision2: 
+    text: I eventually passed by it. The Holy Grail. The Fountain of Youth. El Dorado.
+      The ultimate heist. The Covington Mansion.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    decision1: 
+    decision2: 
+    text: This mansion was legendary amongst thieves here in Silvergrove. Once owned
+      by the Duke himself, it has been under the ownership of a dozen nobles in the
+      last decade.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    decision1: 
+    decision2: 
+    text: 'Rumors abound with the vault that the Duke kept. They say it is still
+      filled with his gold, but no one dares to try and steal it with the round-the-clock
+      extreme security. '
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    decision1: 
+    decision2: 
+    text: Adding to the myth is the fact that despite those dozen nobles buying the
+      mansion, not one of them has moved in, and the guards are still always present.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    decision1: 
+    decision2: 
+    text: "Despite no one ever seeing this vault, everyone believed it. The houses\u2019
+      exterior was gaudy with wealth, even for the noble district."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    decision1: 
+    decision2: 
+    text: "Covered in white marble and spotless, it was often nicknamed \u201CThe
+      Mirror House\u201D for how the sun reflected off of it."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    decision1: 
+    decision2: 
+    text: There was no sun right now, however, so it just looked the normal kind
+      of wealthy.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    decision1: 
+    decision2: 
+    text: "It has been my ritual on my more boring days to climb up to the top of
+      the cliff just outside the grounds of Covington Mansion and play at making
+      a plan for how I\u2019d break-in."
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: "It\u2019s been a disappointing day, I need to just check it out tonight.
+      I need a pick-me-up."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    decision1: 
+    decision2: 
+    text: 
