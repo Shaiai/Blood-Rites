@@ -18,18 +18,21 @@ MonoBehaviour:
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
+    endOfChoice: 0
     decision1: 
     decision2: 
-    text: Damnit! I was so close!
+    text: <i>Damnit! I was so close!</i>
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: That house had so much loot to be taken. But I had to go and ruin it.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: I mean, who puts a priceless and easily shattered vase in the middle of
@@ -37,24 +40,28 @@ MonoBehaviour:
   - character: {fileID: 0}
     decision: 0
     narration: 1
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: 'I look down at myself. '
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: Just my luck! My shirt has a tear in it.
   - character: {fileID: 0}
     decision: 0
     narration: 1
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: I set my jaw.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: "Well, at least I should have enough to get by for the next little while.
@@ -62,6 +69,7 @@ MonoBehaviour:
   - character: {fileID: 0}
     decision: 0
     narration: 1
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: I slinked from shadow to shadow, avoiding guards, and making my way out
@@ -69,6 +77,7 @@ MonoBehaviour:
   - character: {fileID: 0}
     decision: 0
     narration: 1
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: I eventually passed by it. The Holy Grail. The Fountain of Youth. El Dorado.
@@ -76,6 +85,7 @@ MonoBehaviour:
   - character: {fileID: 0}
     decision: 0
     narration: 1
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: This mansion was legendary amongst thieves here in Silvergrove. Once owned
@@ -84,6 +94,7 @@ MonoBehaviour:
   - character: {fileID: 0}
     decision: 0
     narration: 1
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: 'Rumors abound with the vault that the Duke kept. They say it is still
@@ -92,6 +103,7 @@ MonoBehaviour:
   - character: {fileID: 0}
     decision: 0
     narration: 1
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: Adding to the myth is the fact that despite those dozen nobles buying the
@@ -99,6 +111,7 @@ MonoBehaviour:
   - character: {fileID: 0}
     decision: 0
     narration: 1
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: "Despite no one ever seeing this vault, everyone believed it. The houses\u2019
@@ -106,6 +119,7 @@ MonoBehaviour:
   - character: {fileID: 0}
     decision: 0
     narration: 1
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: "Covered in white marble and spotless, it was often nicknamed \u201CThe
@@ -113,6 +127,7 @@ MonoBehaviour:
   - character: {fileID: 0}
     decision: 0
     narration: 1
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: There was no sun right now, however, so it just looked the normal kind
@@ -120,6 +135,7 @@ MonoBehaviour:
   - character: {fileID: 0}
     decision: 0
     narration: 1
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: "It has been my ritual on my more boring days to climb up to the top of
@@ -128,205 +144,259 @@ MonoBehaviour:
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: "It\u2019s been a disappointing day, I need to just check it out tonight.
       I need a pick-me-up."
   - character: {fileID: 0}
     decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I normally wouldn\u2019t risk doing something like this the same night
+      as a steal, but something was telling me I had to check the Mansion tonight."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: As I climbed up the cliff, I knew things were different. Normally the Covington
+      Mansion was filled with the hustle or bustle of the guards doing their guarding.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I could hear no such sound.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "When I got to the top, my suspicion was confirmed. Not only was there
+      no sound from guards, but there also weren\u2019t any guards at all!"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: My heart slowed down to a crawl and I could feel the adrenaline rising.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
     narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Could this be my opportunity to break into the Covington Mansion?
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Remembering my frustrating defeat not even an hour ago, I give a start
+      to think this over.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Should I bring someone else with me? No, I\u2019ll just have to split
+      the loot. Besides who knows how long this window will last."
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Should I\u2026 no. Would I be able\u2026. No. Dammit!"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I get the best plan I can together in the time I have.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "There isn\u2019t any more time to plot this out. I just have to go. I
+      can\u2019t go ruining this opportunity. Life of luxury, here I come!"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I make my way back down the cliff, leaving my winnings from my previous
+      heist hiding under a bush. I\u2019ll need all the arm strength and space I
+      could to maximize my take."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I tiptoe over to the gate to the Mansion, and deftly climb my way over
+      it, dropping down with little sound.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I cross the grounds and sidle up next to a window, peeking inside. The
+      oddities of this night continued, as everything seemed quiet and empty within.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "This has to be some sort of trap, right? It can\u2019t possibly be this
+      easy\u2026"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Trap or not, I\u2019m committed now. Might as well see it through."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I get my way inside, the echoes of my footsteps being the only sound. The
+      only light source being the moonlight coming in beams through the windows.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The vault will probably be in the lower levels...
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I start to look for a staircase down.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: After what feels like a small eternity, but was probably only 10 minutes,
+      I found a staircase down into a dark basement. I grab the torch at the top
+      of the stairs and make my way down.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "The marble steps just kept coming, but eventually, I got to the bottom.
+      There I found a door unlike any I\u2019d ever seen before."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Like everything else in the Covington mansion, the door was ostentatious.
+      In contrast to the marble found across the mansion though, this door appeared
+      to be solid gold.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: It gave me pause though, because something had happened here, and recently.
+      The door was drawn on with what I could only call blood. A pentagram was placed
+      across its whole width.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "This is weirding me out. First, there isn\u2019t anyone guarding the mansion
+      anywhere, and now I find this?"
+  - character: {fileID: 0}
+    decision: 1
+    narration: 0
+    endOfChoice: 0
+    decision1: Turn Back
+    decision2: Keep Going
+    text: I wonder to myself if I should continue...
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: chafwea
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: efaefawefa
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: feafwe
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: 
   - character: {fileID: 0}
     decision: 0
     narration: 0
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: 
   - character: {fileID: 0}
     decision: 0
     narration: 0
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: 
   - character: {fileID: 0}
     decision: 0
     narration: 0
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: 
   - character: {fileID: 0}
     decision: 0
     narration: 0
+    endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    decision1: 
-    decision2: 
-    text: 
+    text: this is where I should be

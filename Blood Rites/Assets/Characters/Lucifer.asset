@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f00e1026d6948404aa42c5678a4e5872, type: 3}
   m_Name: Lucifer
   m_EditorClassIdentifier: 
-  fullName: 
-  portrait: {fileID: 0}
+  fullName: Lucifer
+  portrait: {fileID: 21300000, guid: a937e831d719c3c4c8ce7fd805b50ec9, type: 3}
