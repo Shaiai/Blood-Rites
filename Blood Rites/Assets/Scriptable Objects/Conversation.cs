@@ -11,6 +11,7 @@ public struct Line
 
     public bool decision;
     public bool narration;
+    public int endOfChoice;
 
     public string decision1;
     public string decision2;
