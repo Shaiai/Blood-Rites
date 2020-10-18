@@ -25,9 +25,7 @@ public class DialogDisplay : MonoBehaviour
         private bool hasDecision;
         private bool hasNarration;
         private int isEndOfChoice;
-
         int choice;
-
         private string good;
         private string bad;
     
@@ -41,6 +39,11 @@ public class DialogDisplay : MonoBehaviour
 
         goodButton.gameObject.SetActive(false);
         badButton.gameObject.SetActive(false);
+
+        if(SceneManager.GetActiveScene().name == "Intro")
+        {
+            choice = 1;
+        }
     }
 
     
@@ -62,7 +65,7 @@ public class DialogDisplay : MonoBehaviour
 
     void onEnable()
     {
-        choice = PlayerPrefs.GetInt("choice", 0);
+        choice = PlayerPrefs.GetInt("choice", 1);
     }
 
     public void goodChange()
@@ -75,7 +78,14 @@ public class DialogDisplay : MonoBehaviour
     }
      public void badChange()
     {
-        activeLineIndex += 1;
+        
+        switch(choice)
+        {
+            case 1:
+                activeLineIndex += 9;
+                choice++;
+                break;
+        }   
         AdvanceConversation();
         hasDecision = false;
         goodButton.gameObject.SetActive(false);
@@ -83,19 +93,11 @@ public class DialogDisplay : MonoBehaviour
         badButton.gameObject.SetActive(false);
     }
 
-    public void callNarration()
-    {
-        if(hasNarration)
-        {
-            narrationScreen.SetActive(true);
-        }
-    }
-    
-
     //Function that responds to a key press to proceed with conversation
     void AdvanceConversation()
     {
-        if(activeLineIndex < conversation.lines.Length){
+        if(activeLineIndex < conversation.lines.Length)
+        {
             DisplayLine();
             activeLineIndex += 1;
         }
@@ -129,7 +131,7 @@ public class DialogDisplay : MonoBehaviour
             //Grab text from conversation to impliment on Buttons for good optio and bad option.
             good = line.decision1;
             bad  = line.decision2;
-            choice = line.endOfChoice;
+            //choice = line.endOfChoice;
 
             //Check to see who is the speaker, set the text in the panel and hide the other speaker.
             if(speakerUILeft.SpeakerIs(character))
@@ -155,6 +157,7 @@ public class DialogDisplay : MonoBehaviour
         {
             speakerUILeft.Hide();
             speakerUIRight.Hide();
+
             goodButton.gameObject.SetActive(true);
             goodButton.GetComponentInChildren<TextMeshProUGUI>().text = good;
 
@@ -174,13 +177,19 @@ public class DialogDisplay : MonoBehaviour
             hasNarration = false;
         }
 
-        if(activeLineIndex < conversation.lines.Length && isEndOfChoice == -1)
+        if(activeLineIndex < conversation.lines.Length && isEndOfChoice != 0)
         {
-            activeLineIndex += 7;
-            AdvanceConversation();
+            switch(isEndOfChoice)
+            {
+                case 1:
+                    SceneManager.LoadScene(0);
+                    break;
+            }
+           // activeLineIndex += 7;
+           // AdvanceConversation();
         }
 
-        Debug.Log("Index is:" + activeLineIndex);
-        Debug.Log("Decision =" + hasDecision);
+        //Debug.Log("Index is:" + activeLineIndex);
+        //Debug.Log("Decision =" + hasDecision);
     }  
 }

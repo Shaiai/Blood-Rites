@@ -338,61 +338,3215 @@ MonoBehaviour:
     text: "This is weirding me out. First, there isn\u2019t anyone guarding the mansion
       anywhere, and now I find this?"
   - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I wonder to myself if I should continue...
+  - character: {fileID: 0}
     decision: 1
     narration: 0
     endOfChoice: 0
     decision1: Turn Back
     decision2: Keep Going
-    text: I wonder to myself if I should continue...
-  - character: {fileID: 0}
+    text: 
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: chafwea
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: efaefawefa
+    text: "<i>This is just too much. Something is going on here, and I don\u2019t
+      trust it. I need to get outta here.</i>"
   - character: {fileID: 0}
     decision: 0
     narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: feafwe
+    text: I rush my way back up the stairs, back out of the mansion, and back to
+      my paltry haul.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "As I make my way back to my dirty little hovel of a hideout, I can\u2019t
+      stop thinking about how I missed out on a huge opportunity to turn my life
+      around."
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>I\u2019ll never get a chance like that again.</i>"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>Riches beyond my wildest dreams\u2026gone.</i>"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>I\u2019m just a coward.</i>"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>I ruined everything.</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: GAME OVER
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 1
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
   - character: {fileID: 0}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: this is where I should be
   - character: {fileID: 0}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: this is where I should be
   - character: {fileID: 0}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: this is where I should be
   - character: {fileID: 0}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: this is where I should be
   - character: {fileID: 0}
     decision: 0
     narration: 0
