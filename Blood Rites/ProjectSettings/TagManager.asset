@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Good Button
   - Bad Button
+  - breakable
+  - Enemy
+  - enemy
   layers:
   - Default
   - TransparentFX
