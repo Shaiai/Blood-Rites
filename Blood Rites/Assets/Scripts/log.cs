@@ -39,9 +39,24 @@ public class log : Enemy {
                                                          target.position,
                                                          moveSpeed * Time.deltaTime);
                 myRigidbody.MovePosition(temp);
+                changeAnim(temp - transform.position);
                 ChangeState(EnemyState.walk);
+                anim.SetBool("wakeUp", true);
             }
         }
+        else if(Vector3.Distance(target.position, 
+                            transform.position) > chaseRadius)
+            {
+                anim.SetBool("wakeUp",false);
+                anim.SetBool("SleepNow", true);
+            }
+    }
+
+    private void changeAnim(Vector2 direction)
+    {
+        direction = direction.normalized;
+        anim.SetFloat("moveX", direction.x);
+        anim.SetFloat("moveY", direction.y);
     }
 
     private void ChangeState(EnemyState newState){

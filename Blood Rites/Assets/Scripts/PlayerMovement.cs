@@ -76,8 +76,7 @@ public class PlayerMovement : MonoBehaviour {
     {
         change.Normalize();
         myRigidbody.MovePosition(
-            transform.position + change * speed * Time.deltaTime
-        );
+            transform.position + change * (speed * Time.deltaTime));
     }
 
     public void Knock(float knockTime)

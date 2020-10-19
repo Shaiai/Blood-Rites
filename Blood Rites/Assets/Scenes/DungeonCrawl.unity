@@ -4997,7 +4997,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67502595997993743a6110bf70033c92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  thrust: 2
+  thrust: 1
   knockTime: 0.2
 --- !u!212 &328077309
 SpriteRenderer:
@@ -12393,13 +12393,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  health: 2
+  health: 0
   enemyName: Log Boy
   baseAttack: 1
-  moveSpeed: 5
+  moveSpeed: 0.15
   target: {fileID: 0}
-  chaseRadius: 4
-  attackRadius: 1.2
+  chaseRadius: 2
+  attackRadius: 0.025
   homePosition: {fileID: 0}
   anim: {fileID: 0}
 --- !u!61 &1567315801
@@ -12440,7 +12440,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67502595997993743a6110bf70033c92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  thrust: 2
+  thrust: 1
   knockTime: 0.2
 --- !u!114 &1567315803
 MonoBehaviour:
@@ -12456,12 +12456,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentState: 0
   health: 0
-  enemyName: 
+  enemyName: Log Boy
   baseAttack: 0
-  moveSpeed: 0
+  moveSpeed: 4
   target: {fileID: 0}
-  chaseRadius: 0
-  attackRadius: 0
+  chaseRadius: 4
+  attackRadius: 1.2
   homePosition: {fileID: 0}
   anim: {fileID: 0}
 --- !u!1 &1716285614
