@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class PlayerHit : MonoBehaviour
 {
+    public Enemy enemy;
+    public int playerAttack;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -21,6 +24,11 @@ public class PlayerHit : MonoBehaviour
         if(other.CompareTag("breakable"))
         {
             other.GetComponent<pot>().Smash();
+        }
+        if(other.CompareTag("enemy"))
+        {
+            Debug.Log("Enemy Hit");
+            enemy.health -= playerAttack;
         }
     }
 }

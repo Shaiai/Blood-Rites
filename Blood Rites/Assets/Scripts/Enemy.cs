@@ -17,7 +17,18 @@ public class Enemy : MonoBehaviour {
     public int baseAttack;
     public float moveSpeed;
 
-    public void Knock(Rigidbody2D myRigidbody, float knockTime)
+
+
+     private void OnTriggerEnter2D(Collider2D other)
+     {
+         if(other.CompareTag("Player"))
+         {
+        
+         }
+     }
+
+
+  /*  public void Knock(Rigidbody2D myRigidbody, float knockTime)
     {
         StartCoroutine(KnockCo(myRigidbody, knockTime));
     }
@@ -31,5 +42,5 @@ public class Enemy : MonoBehaviour {
             currentState = EnemyState.idle;
             myRigidbody.velocity = Vector2.zero;
         }
-    }
+    }*/
 }

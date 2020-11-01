@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class Knockback : MonoBehaviour {
 
-    public float thrust;
+  
     public float knockTime;
 
-    private void OnTriggerEnter2D(Collider2D other)
+  /*   private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("breakable") && this.gameObject.CompareTag("Player"))
         {
@@ -26,14 +26,10 @@ public class Knockback : MonoBehaviour {
                     hit.GetComponent<Enemy>().currentState = EnemyState.stagger;
                     other.GetComponent<Enemy>().Knock(hit, knockTime);
                 }
-                if(other.gameObject.CompareTag("Player"))
-                {
-                    hit.GetComponent<PlayerMovement>().currentState = PlayerState.stagger;
-                    other.GetComponent<PlayerMovement>().Knock(knockTime);
-                }
+               
             }
         }
-    }
+    } */
 
 
 }

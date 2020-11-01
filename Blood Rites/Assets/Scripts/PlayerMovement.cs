@@ -19,6 +19,11 @@ public class PlayerMovement : MonoBehaviour {
     private Rigidbody2D myRigidbody;
     private Vector3 change;
     private Animator animator;
+    public int health;
+
+    public HealthBar healthBar;
+    public int maxHealth = 100;
+    public int currentHealth;
 
 
 	// Use this for initialization
@@ -28,6 +33,9 @@ public class PlayerMovement : MonoBehaviour {
         myRigidbody = GetComponent<Rigidbody2D>();
         animator.SetFloat("moveX", 0);
         animator.SetFloat("moveY", -1);
+
+        currentHealth = maxHealth;
+        healthBar.SetMaxHealth(maxHealth);
 
 	}
 	
@@ -44,6 +52,11 @@ public class PlayerMovement : MonoBehaviour {
         else if (currentState == PlayerState.walk || currentState == PlayerState.idle)
         {
             UpdateAnimationAndMove();
+        }
+
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            TakeDamage(4);
         }
 	}
 
@@ -79,7 +92,15 @@ public class PlayerMovement : MonoBehaviour {
             transform.position + change * (speed * Time.deltaTime));
     }
 
-    public void Knock(float knockTime)
+    public void TakeDamage(int damage)
+    {
+        
+        currentHealth -= damage;
+        healthBar.SetHealth(currentHealth);
+    }
+
+   
+   /* public void Knock(float knockTime)
     {
         StartCoroutine(KnockCo(knockTime));
     }
@@ -93,5 +114,5 @@ public class PlayerMovement : MonoBehaviour {
             currentState = PlayerState.idle;
             myRigidbody.velocity = Vector2.zero;
         }
-    }
+    } */
 }
