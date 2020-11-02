@@ -215,7 +215,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67502595997993743a6110bf70033c92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  thrust: 1
   knockTime: 0.2
 --- !u!114 &4391549193549534478
 MonoBehaviour:
