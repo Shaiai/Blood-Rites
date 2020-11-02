@@ -21,10 +21,7 @@ public class PlayerMovement : MonoBehaviour {
     private Animator animator;
     public int health;
 
-    public HealthBar healthBar;
-    public int maxHealth = 100;
-    public int currentHealth;
-
+ 
 
 	// Use this for initialization
 	void Start () {
@@ -33,9 +30,6 @@ public class PlayerMovement : MonoBehaviour {
         myRigidbody = GetComponent<Rigidbody2D>();
         animator.SetFloat("moveX", 0);
         animator.SetFloat("moveY", -1);
-
-        currentHealth = maxHealth;
-        healthBar.SetMaxHealth(maxHealth);
 
 	}
 	
@@ -52,11 +46,6 @@ public class PlayerMovement : MonoBehaviour {
         else if (currentState == PlayerState.walk || currentState == PlayerState.idle)
         {
             UpdateAnimationAndMove();
-        }
-
-        if(Input.GetKeyDown(KeyCode.Space))
-        {
-            TakeDamage(4);
         }
 	}
 
@@ -90,13 +79,6 @@ public class PlayerMovement : MonoBehaviour {
         change.Normalize();
         myRigidbody.MovePosition(
             transform.position + change * (speed * Time.deltaTime));
-    }
-
-    public void TakeDamage(int damage)
-    {
-        
-        currentHealth -= damage;
-        healthBar.SetHealth(currentHealth);
     }
 
 }

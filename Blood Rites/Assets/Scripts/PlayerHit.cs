@@ -28,7 +28,7 @@ public class PlayerHit : MonoBehaviour
         if(other.CompareTag("enemy"))
         {
             Debug.Log("Enemy Hit");
-            enemy.health -= playerAttack;
+           // enemy.health -= playerAttack;
         }
     }
 }
