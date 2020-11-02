@@ -9,6 +9,7 @@ TagManager:
   - breakable
   - Enemy
   - enemy
+  - WeaponHitBox
   layers:
   - Default
   - TransparentFX

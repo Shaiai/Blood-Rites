@@ -99,20 +99,4 @@ public class PlayerMovement : MonoBehaviour {
         healthBar.SetHealth(currentHealth);
     }
 
-   
-   /* public void Knock(float knockTime)
-    {
-        StartCoroutine(KnockCo(knockTime));
-    }
-
-    private IEnumerator KnockCo(float knockTime)
-    {
-        if (myRigidbody != null)
-        {
-            yield return new WaitForSeconds(knockTime);
-            myRigidbody.velocity = Vector2.zero;
-            currentState = PlayerState.idle;
-            myRigidbody.velocity = Vector2.zero;
-        }
-    } */
 }

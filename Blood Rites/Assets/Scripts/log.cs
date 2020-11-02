@@ -10,6 +10,7 @@ public class log : Enemy {
     public float attackRadius;
     public Transform homePosition;
     public Animator anim;
+    
 
 
 	// Use this for initialization
@@ -65,4 +66,5 @@ public class log : Enemy {
             currentState = newState;
         }
     }
+
 }

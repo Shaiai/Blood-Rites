@@ -19,28 +19,13 @@ public class Enemy : MonoBehaviour {
 
 
 
-     private void OnTriggerEnter2D(Collider2D other)
-     {
-         if(other.CompareTag("Player"))
-         {
-        
-         }
-     }
-
-
-  /*  public void Knock(Rigidbody2D myRigidbody, float knockTime)
+      void OnTriggerEnter2D(Collider2D other)
     {
-        StartCoroutine(KnockCo(myRigidbody, knockTime));
-    }
-
-    private IEnumerator KnockCo(Rigidbody2D myRigidbody, float knockTime)
-    {
-        if (myRigidbody != null)
+        if(other.CompareTag("WeaponHitBox"))
         {
-            yield return new WaitForSeconds(knockTime);
-            myRigidbody.velocity = Vector2.zero;
-            currentState = EnemyState.idle;
-            myRigidbody.velocity = Vector2.zero;
+            Vector2 difference = transform.position - other.transform.position;
+            transform.position = new Vector2(transform.position.x + difference.x, transform.position.y + difference.y);
+            currentState = EnemyState.stagger;
         }
-    }*/
+    }
 }

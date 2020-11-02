@@ -21407,13 +21407,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4391549193549534466, guid: 2ed6b496536b2da459ada44e4e036e53, type: 3}
+      propertyPath: m_Mass
+      value: 1000
+      objectReference: {fileID: 0}
     - target: {fileID: 4391549193549534471, guid: 2ed6b496536b2da459ada44e4e036e53, type: 3}
       propertyPath: m_Name
       value: LogBoy
       objectReference: {fileID: 0}
     - target: {fileID: 4391549193549534477, guid: 2ed6b496536b2da459ada44e4e036e53, type: 3}
       propertyPath: health
-      value: 15
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 4391549193549534478, guid: 2ed6b496536b2da459ada44e4e036e53, type: 3}
       propertyPath: health
@@ -21541,6 +21545,22 @@ PrefabInstance:
     - target: {fileID: 6372935015031143573, guid: 8524ce73b58bf4a4e99b05e88b853615, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6372935015758543256, guid: 8524ce73b58bf4a4e99b05e88b853615, type: 3}
+      propertyPath: m_TagString
+      value: WeaponHitBox
+      objectReference: {fileID: 0}
+    - target: {fileID: 6372935015765451617, guid: 8524ce73b58bf4a4e99b05e88b853615, type: 3}
+      propertyPath: m_TagString
+      value: WeaponHitBox
+      objectReference: {fileID: 0}
+    - target: {fileID: 6372935016752001893, guid: 8524ce73b58bf4a4e99b05e88b853615, type: 3}
+      propertyPath: m_TagString
+      value: WeaponHitBox
+      objectReference: {fileID: 0}
+    - target: {fileID: 6372935016844392264, guid: 8524ce73b58bf4a4e99b05e88b853615, type: 3}
+      propertyPath: m_TagString
+      value: WeaponHitBox
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6372935015031143575, guid: 8524ce73b58bf4a4e99b05e88b853615, type: 3}
