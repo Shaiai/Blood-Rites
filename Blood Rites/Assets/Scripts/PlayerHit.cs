@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class PlayerHit : MonoBehaviour
 {
-    public Enemy enemy;
-    public int playerAttack;
+    public int damage = 2;
     
+
     // Start is called before the first frame update
     void Start()
     {
@@ -25,10 +25,14 @@ public class PlayerHit : MonoBehaviour
         {
             other.GetComponent<pot>().Smash();
         }
+
         if(other.CompareTag("enemy"))
         {
             Debug.Log("Enemy Hit");
-           // enemy.health -= playerAttack;
+
+            EnemyHealthManager eHealthMan;
+            eHealthMan = other.gameObject.GetComponent<EnemyHealthManager>();
+            eHealthMan.HurtEnemy(damage);
         }
     }
 }

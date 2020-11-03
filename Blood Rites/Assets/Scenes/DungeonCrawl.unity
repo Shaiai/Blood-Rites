@@ -11917,8 +11917,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41856b9b160c49449a71e288d2f7199f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemy: {fileID: 2118968576}
-  playerAttack: 3
+  damage: 2
 --- !u!224 &1534277672 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7750384431446226955, guid: b36586ba82800d24380e7d4182ee5b13, type: 3}
@@ -21330,6 +21329,21 @@ MonoBehaviour:
   speed: 1.5
   maxRange: 5
   minRange: 0.5
+--- !u!114 &2118968570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2118968568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728e9e4332c5cd14bae741389e440b7e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentHealth: 30
+  maxHealth: 30
+  flashLen: 0.5
 --- !u!114 &2118968576
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21498,11 +21512,11 @@ PrefabInstance:
       objectReference: {fileID: 328077310}
     - target: {fileID: 5859347035420390104, guid: 4678ed70ff76e0c46b6848687511dbf0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.26
+      value: -3.7
       objectReference: {fileID: 0}
     - target: {fileID: 5859347035420390104, guid: 4678ed70ff76e0c46b6848687511dbf0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.73
+      value: 0.62
       objectReference: {fileID: 0}
     - target: {fileID: 5859347035420390104, guid: 4678ed70ff76e0c46b6848687511dbf0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -21539,6 +21553,10 @@ PrefabInstance:
     - target: {fileID: 5859347035420390104, guid: 4678ed70ff76e0c46b6848687511dbf0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859347035420390105, guid: 4678ed70ff76e0c46b6848687511dbf0, type: 3}
+      propertyPath: orthographic size
+      value: 4.1505423
       objectReference: {fileID: 0}
     - target: {fileID: 5859347035420390107, guid: 4678ed70ff76e0c46b6848687511dbf0, type: 3}
       propertyPath: m_Name
