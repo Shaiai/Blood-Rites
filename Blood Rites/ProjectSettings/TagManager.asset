@@ -50,6 +50,9 @@ TagManager:
   - name: TransitionScreen
     uniqueID: 3190696065
     locked: 0
+  - name: Dungeon Items
+    uniqueID: 670592421
+    locked: 0
   - name: Player
     uniqueID: 3355216761
     locked: 0
