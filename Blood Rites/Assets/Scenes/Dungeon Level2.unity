@@ -9494,6 +9494,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Global Room Light
       objectReference: {fileID: 0}
+    - target: {fileID: 3183657488561611162, guid: ae9ead87afb67c049ace5de9cf1a5d15, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3183657488561611163, guid: ae9ead87afb67c049ace5de9cf1a5d15, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.45
