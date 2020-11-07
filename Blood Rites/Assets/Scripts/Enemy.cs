@@ -1,35 +1,73 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public enum EnemyState{
-    idle,
-    walk,
-    attack,
-    stagger
-}
 
-public class Enemy : MonoBehaviour {
+public class Enemy : MonoBehaviour 
+{
 
-    public EnemyState currentState;
-    public int health;
-    public string enemyName;
-    public int baseAttack;
-    public float moveSpeed;
+    private HealthManager healthMan;
+    private float waitToHurt = 2f;
+    private bool isTouching;
+    [SerializeField]
+    private int attackDamage = 10;
 
-    public void Knock(Rigidbody2D myRigidbody, float knockTime)
+    void Start()
     {
-        StartCoroutine(KnockCo(myRigidbody, knockTime));
+        healthMan = FindObjectOfType<HealthManager>();
     }
 
-    private IEnumerator KnockCo(Rigidbody2D myRigidbody, float knockTime)
+
+    void Update()
     {
-        if (myRigidbody != null)
+       /* if(reloading)
         {
-            yield return new WaitForSeconds(knockTime);
-            myRigidbody.velocity = Vector2.zero;
-            currentState = EnemyState.idle;
-            myRigidbody.velocity = Vector2.zero;
+          waitToLoad -= Time.deltaTime;  
+          if(waitToLoad >= 0)
+          {
+            // SceneManager.LoadScene("DungeonCrawl");
+          }
+        }*/
+
+        if(isTouching)
+        {
+            waitToHurt -= Time.deltaTime;
+            if(waitToHurt <= 0)
+            {
+                healthMan.TakeDamage(attackDamage);
+                waitToHurt = 2f;
+            }
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if(other.collider.tag == "Player")
+        {
+            //other.gameObject.SetActive(false);
+             //reloading = true;
+
+            other.gameObject.GetComponent<HealthManager>().TakeDamage(attackDamage);
+           
+       
+        }
+    }
+
+    void OnCollisionStay2D(Collision2D other)
+    {
+        if(other.collider.tag == "Player")
+        {
+            isTouching = true;
+        }
+    }
+
+    void OnCollisionExit2D(Collision2D other)
+    {
+        if(other.collider.tag == "Player")
+        { 
+            isTouching = false;
+            waitToHurt = 2f;
         }
     }
 }

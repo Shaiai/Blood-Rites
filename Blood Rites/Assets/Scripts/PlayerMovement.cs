@@ -19,7 +19,9 @@ public class PlayerMovement : MonoBehaviour {
     private Rigidbody2D myRigidbody;
     private Vector3 change;
     private Animator animator;
+    public int health;
 
+ 
 
 	// Use this for initialization
 	void Start () {
@@ -79,19 +81,4 @@ public class PlayerMovement : MonoBehaviour {
             transform.position + change * (speed * Time.deltaTime));
     }
 
-    public void Knock(float knockTime)
-    {
-        StartCoroutine(KnockCo(knockTime));
-    }
-
-    private IEnumerator KnockCo(float knockTime)
-    {
-        if (myRigidbody != null)
-        {
-            yield return new WaitForSeconds(knockTime);
-            myRigidbody.velocity = Vector2.zero;
-            currentState = PlayerState.idle;
-            myRigidbody.velocity = Vector2.zero;
-        }
-    }
 }
