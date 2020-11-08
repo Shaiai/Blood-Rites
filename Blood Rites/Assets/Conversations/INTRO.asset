@@ -28,15 +28,15 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: That house had so much loot to be taken. But I had to go and ruin it.
+    text: <i>That house had so much loot to be taken. But I had to go and ruin it.</i>
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: I mean, who puts a priceless and easily shattered vase in the middle of
-      their hallway?
+    text: <i>I mean, who puts a priceless and easily shattered vase in the middle
+      of their hallway?</i>
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -50,7 +50,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: Just my luck! My shirt has a tear in it.
+    text: <i>Just my luck! My shirt has a tear in it.</i>
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -64,8 +64,8 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "Well, at least I should have enough to get by for the next little while.
-      But I could\u2019ve been set for years!"
+    text: "<i>Well, at least I should have enough to get by for the next little while.
+      But I could\u2019ve been set for years!</i>"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -147,8 +147,8 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "It\u2019s been a disappointing day, I need to just check it out tonight.
-      I need a pick-me-up."
+    text: "<i>It\u2019s been a disappointing day, I need to just check it out tonight.
+      I need a pick-me-up.</i>"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -193,7 +193,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: Could this be my opportunity to break into the Covington Mansion?
+    text: <i>Could this be my opportunity to break into the Covington Mansion?</i>
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -208,15 +208,15 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "Should I bring someone else with me? No, I\u2019ll just have to split
-      the loot. Besides who knows how long this window will last."
+    text: "<i>Should I bring someone else with me? No, I\u2019ll just have to split
+      the loot. Besides who knows how long this window will last.</i>"
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "Should I\u2026 no. Would I be able\u2026. No. Dammit!"
+    text: "<i>Should I\u2026 no. Would I be able\u2026. No. Dammit!</i>"
   - character: {fileID: 0}
     decision: 0
     narration: 0
@@ -230,8 +230,8 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "There isn\u2019t any more time to plot this out. I just have to go. I
-      can\u2019t go ruining this opportunity. Life of luxury, here I come!"
+    text: "<i>There isn\u2019t any more time to plot this out. I just have to go.
+      I can\u2019t go ruining this opportunity. Life of luxury, here I come!</i>"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -263,15 +263,15 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "This has to be some sort of trap, right? It can\u2019t possibly be this
-      easy\u2026"
+    text: "<i>This has to be some sort of trap, right? It can\u2019t possibly be
+      this easy\u2026</i>"
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "Trap or not, I\u2019m committed now. Might as well see it through."
+    text: "<i>Trap or not, I\u2019m committed now. Might as well see it through.</i>"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -286,7 +286,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: The vault will probably be in the lower levels...
+    text: <i>The vault will probably be in the lower levels...</i>
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -335,8 +335,8 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "This is weirding me out. First, there isn\u2019t anyone guarding the mansion
-      anywhere, and now I find this?"
+    text: "<i>This is weirding me out. First, there isn\u2019t anyone guarding the
+      mansion anywhere, and now I find this?</i>"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -486,13 +486,6 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: this is where I should be
-  - character: {fileID: 0}
-    decision: 0
-    narration: 1
-    endOfChoice: 0
-    decision1: 
-    decision2: 
     text: "I focused my eyes. They were talking with\u2026with\u2026"
   - character: {fileID: 0}
     decision: 0
@@ -501,10 +494,797 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: I feel the blood drain from my face as fear grips me.
-  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+  - character: {fileID: 0}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
     text: "<i>That...that\u2019s a demon!</i>"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CDo I look like the type who accepts apologies? Or one who gives
+      second chances?\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The nobleman begins to grovel, even more, tears staining his face. I quickly
+      scoot over behind a pillar and watch the conversation.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CN-N-N-No m-my Lord! But please, I can do better! I w-w-will get
+      my Lord everything he wants...please...\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The demon gets up out of the throne and walks over to the groveling nobleman.
+      Each step it takes is like a small earthquake.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Upon reaching the nobleman, the demon gives a dry chuckle.
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWell isn\u2019t that interesting. Now tell me, why would I do anything
+      like that for someone with so little dignity? Allow me to show you what true
+      Pride is.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "The Demon bends and grabs the nobleman by the neck. With what looks like
+      barely an effort, they place their hand around the nobleman\u2019s head\u2026.and
+      twist."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The body falls limply to the ground, lifeless.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The demon seems to wipe his hands of the kill in the air, then turns directly
+      towards me.
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CAaahhh, it seems there is another worm here. Come on out now. You
+      won\u2019t like it if I have to force you out.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: My eyes go wide.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>Does he know I\u2019m here? What do I do? WHAT DO I DO?</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Having just seen how easily I could be overpowered, I decided to slowly
+      walk out.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I try and hold my head high, but fear takes hold and I end up just meekly
+      walking forward.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The demon seems to study me, looking over everything.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>Why didn\u2019t I just turn and run when I had the chance?</i>"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWhat are you doing here? You don\u2019t serve me.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWell, I\u2026\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201COn second thought, it doesn\u2019t matter why you\u2019re here.
+      What matters is you are.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CThere has been an...opening in my ranks. You are going to fill it.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I try to explain that I wanted nothing to do with this demon or ANYTHING
+      that\u2019s going on here, but before I can say a word\u2026"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The demon is right in front of me. It moved with incredible speed. He places
+      his hand on my forehead.
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CSanguinis tui non maledices. Te et ministra mihi, donec moriens
+      spiritum tuum.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I go weak. Every muscle seems to lose all strength. I crumple to the ground
+      before this demon. They walk slowly back to their throne and sit down.
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CMy name is Lucifer. I am the Lord of Pride. And you..\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWell, you are now my loyal slave.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I manage to collect enough strength to get to my knees. And eventually
+      my feet.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWhat the hell did you do to me?\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CI already told you. You are mine now.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CTo ensure cooperation, I\u2019ve placed a curse on your blood.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CA curse? What do you mean?\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Much to my surprise, Lucifer stays calm at my incredulity from the situation.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The demon calmly explains exactly what this all means.
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CYour blood is under my control. I have given you a seedling of power.
+      My power. Stay loyal, and that seed will grow. Betray me\u2026\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CI would advise NOT betraying me.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CNow, I have a task for you. Your predecessor failed me. I believe
+      one of your prowess and aptitude will not.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CAfterall, few could reach me alive with my generals patrolling the
+      mansion.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>What? I didn\u2019t see anything. There were powerful demons around?</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Lucifer continued.
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CMy siblings have started a coup. This city of worms has become ground
+      zero for our conflict. You are the newest member of the winning side.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CAnd you are going to be the needle to my army\u2019s hammer.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I listened intently, sweat growing on my brow. I could feel growing nausea
+      from where I suspected this was going.
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CYou will be assassinating m-\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CYou...You want me to assassinate your demon-kin?\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CThat\u2019s insane! I can\u2019t do that!\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Lucifer\u2019s previous patience vanishes, and with nary an effort from
+      him, I feel an unbearable wracking pain throughout my body. I scream."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Lucifer gives a truly bone-chilling smile, before returning to a cold stare.
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CKnow your place, worm. No one, and I mean NO ONE, interrupts me.
+      Especially not a maggot like you. You don\u2019t get to decide what will and
+      will not happen.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CSpeak out of turn again, and the pain will be calamitous.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: His voice is calm, quiet, collected. But despite that, it seemed to writhe
+      into my ears and quarter no dissension.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I shiver.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>How could any pain be worse than what I just went through?</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Lucifer went on. I get up from the ground and go on one knee, hoping that
+      stance will save me from more of that terrible experience.
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CHowever, your instincts were correct. You will be eliminating these
+      traitorous siblings of mine.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CThe ones who have turned against Hell are Mammon, Asmodeus, and
+      their leader, Shaitan.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: My eyes go wide. I almost gasp out loud as I hear the names before I catch
+      myself and stay kneeling.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>Greed. Lust. Wrath. Pride wants me to destroy them?</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Then I realize, that only makes four of the sins.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWhat of Gluttony, Sloth, or Envy?\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CMy Lord.\u201D I quickly add."
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CBelphegor, Abadon, and Beelzebul are...otherwise engaged. You will
+      find no help from them.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CVery well, my lord. Where shall I begin?\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CI still await word as to the location of Asmodeus and Shaitan. Mammon,
+      however...\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CMy servants suggest Mammon is in the Old City. His base is a ruined
+      complex somewhere in the heart of the ruins.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CMammon is the newest of the Demon Lords to rebel. Shaitan no doubt
+      promised him whatever he could.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CHe was never smart, let alone clever enough to recognize a losing
+      scheme when he saw one.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CBut it matters not. Find this complex and eliminate Mammon. No other
+      tasks or targets matter.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "There\u2019s a pause until I realize he\u2019s expecting a response. I
+      instinctively put my hand to my heart."
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CI will do as you say.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CMammon is the epitome of Greed. He only cares for himself and his
+      hoard of wealth. He is quite pugnacious when it comes to threats to either.
+      And you will be a threat to both.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CMammon will surely try and beguile you with a deal. Surely I do
+      not need to say taking such a deal will go poorly for you?\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CNot just because of my retribution.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Lucifer\u2019s face takes on a severe countenance."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I avoid his glance.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CI understand.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CNow go and do as you\u2019ve been commanded. Do not return until
+      you\u2019ve done so.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I quickly stand up and begin to walk away. I only take a few steps before
+      I decide to try my luck.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CLord Pride Demon sir. Can I get some equipment to help me accomplish
+      my goal? Some armor or weapons?\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Lucifer looks up at me, his eyes blank. There\u2019s a painfully long
+      moment of silence."
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CVery well. There\u2019s an armory somewhere in here. Take what you
+      will.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I begin to walk out before I\u2019m stopped again."
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201COne last thing, worm. I reward success. When you eliminate all my
+      foolish siblings, I will grant you your freedom. I may even let you keep the
+      power I\u2019ve bestowed.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I give a bow and walk out of the room with a bit more speed than I probably
+      needed to.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "As I walk around the Covington Mansion, I think about everything that\u2019s
+      just happened."
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>I\u2019m a slave?! I\u2019m a slave. And I have to kill Demon Lords
+      to change that.</i>"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>Why did I have to walk into that damn room? I should have just cut
+      my losses and go home. Why can\u2019t I just leave well enough alone?</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I continue to berate and argue with myself, trying to cope with what\u2019s
+      just happened, until I reach the armory. Therein I find a veritable cornucopia
+      of arms."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: As I walk in and begin my search, I catch a glance at my hands. There,
+      on the back of my left hand, rested a sigil.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: It looked like some kind of ancient symbol. I figure it must represent
+      Lucifer.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I grimace. It seemed to glow slightly. I realize it was drawn into my flesh
+      with my blood.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "It wasn\u2019t a terrible dream."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I am in the service of the Lord of Pride.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u2026"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: ...
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I snap back to reality, remembering where I am.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I look through all the different armors and weapons and land on a lithe
+      set of hard leather armor and a shiny, longsword. I grin to myself. This wasn\u2019t
+      all bad at least."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I make my way out of the mansion, back up the hill to my loot. It feels
+      almost pointless to bring with me now, but I can\u2019t just leave it either."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 'I take my loot and armor back to my hideaway. '
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: There was little point in my trying to reach Mammon tonight. I was exhausted
+      and I probably only had one shot at taking down a Demon with so much power.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: There was equally little point in delaying beyond tomorrow morning. It
+      was unlikely a bit more sword training would make a material difference against
+      an enemy like Mammon.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Besides, Lucifer did not seem like the type who appreciated delays.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I try and get some rest. Little comes to me as I have constant nightmares
+      of demons tearing me to shreds.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I eventually wake up in the early morning, my bed drenched in sweat. I
+      put on my armor and strap the sword to my hip. Taking a small pack of supplies,
+      I head to the Old City.
