@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: WRATH
   m_EditorClassIdentifier: 
   speakerLeft: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
-  speakerRight: {fileID: 0}
+  speakerRight: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
   lines:
   - character: {fileID: 0}
     decision: 0
@@ -59,659 +59,463 @@ MonoBehaviour:
     text: "\u201COh, I know of what\u2019s become of my siblings.\u201D"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: He seems to process the rest of the question I proffered.
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "\u201CA deal? What do you take me for?\u201D"
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "\u201CI am not so weak as Mammon or Asmodeus.\u201D"
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "\u201CI am one of the most powerful beings from all of Hell.\u201D"
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "\u201CI have at my command vast armies of demons and hell spawn to make
+      the world quake.\u201D"
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "\u201CAnd you want me to offer a deal to <i>you</i>? A simple, lowly human?\u201D"
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "\u201CI don\u2019t make deals. I win.\u201D"
   - character: {fileID: 0}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "\u201CWell, this 'simple, lowly' human has just brought you to your knees.\u201D"
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "\u201CA trivial fact. You\u2019re stronger than you look, I\u2019ll grant
+      you, but I am not the pushover my siblings are.\u201D"
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "\u201CA few scratches and sword swipes won\u2019t even slow me down.\u201D"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "I give a half smile as Lucifer\u2019s dagger materializes into my hand."
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "\u201CAnd what do you think this will do?\u201D"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: Shaitan looks at the weapon and with the realization of what the weapon
+      is, laughs.
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "\u201CYou think to frighten me with my imbecilic older brother\u2019s
+      relic?\u201D"
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "\u201CLucifer himself may be powerful, but his dagger is worthless.\u201D"
   - character: {fileID: 0}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: He spits out every word, barely able to contain his laughter.
   - character: {fileID: 0}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: I suspect it masks a bottomless fury.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "\u201CThat\u2019s not the impression I got fro-\u201D"
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "\u201CEnough of this!\u201D"
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "\u201CYou want a deal? Very well.\u201D"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "Shaitan sticks out his hand, like how I\u2019ve apparated the dagger in
+      the past."
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "Unlike when I do it however, there isn\u2019t a blue energy materializing."
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "For Shaitan, it\u2019s a deep red."
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: Moments later, in his hand appears a long-curved sword.
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "\u201CIf you think that paltry dagger gives you power, imagine what this
+      would give you?\u201D"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: His eyes still burned bright with anger, but he seemed to have wrangled
+      it enough to extend the sword handle to me.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: <i>What <b>could</b> I do with power like that?</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: <i>I could probably kill Shaitan myself and be free of him forever.</i>
   - character: {fileID: 0}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: <i>But if I take it, what will happen to me if, or <b>when</b> Lucifer
+      finds out</i>
   - character: {fileID: 0}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: <i> I need to decide what to do</i>
   - character: {fileID: 0}
-    decision: 0
+    decision: 1
     narration: 0
     endOfChoice: 0
-    decision1: 
-    decision2: 
+    decision1: ACCEPT
+    decision2: REFUSE
     text: 
-  - character: {fileID: 0}
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: <i> I like the sound of that.</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: <i>With power, I can gain more than freedom.</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: <i>With power, I can achieve my dreams.</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: <i>With power, there is nothing that can stop me.</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: <i>I want that.</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: <i>I need that.</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "\u201CI agree.\u201D"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: As I walk toward the weapon and grab for it, Shaitan gets a satisfied look.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: With my arm outstretched to grab the sword, he retracts the blade and raises
+      it up to strike.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "Before I know what\u2019s happening, the hilt of the sword is striking
+      my head."
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: Shaitan growls.
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "\u201CI told you already, I don\u2019t make deals.\u201D"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
-    endOfChoice: 0
+    narration: 1
+    endOfChoice: 4
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: As I lose consciousness, I can see Shaitan open a portal, and leave.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: <i>This is a terrible deal.</i>
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "It occurs to me that if I take this offer, I\u2019d be replacing one master
+      for another."
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "For all of Lucifer\u2019s faults, he seems a more reasonable master than
+      Shaitan would be."
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: I swap the dagger into my other hand, and ready it for a second round.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "\rShaitan smiles.\r"
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "\u201CYou\u2019re smarter than I took you for.\u201D"
   - character: {fileID: 0}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "\u201CGood, let's fight. Your death is mere moments away.\u201D"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: I charge at him, dagger in my left hand, sword in my right.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "We exchange strikes. He\u2019s stronger and more capable now with the
+      glowing sword than he was before."
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: As we dance the dance of blades, I can feel myself start to tire out.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: Fortunately, Shaitan eventually makes a mistake, and I get a good cut with
+      the dagger into his side.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: The wound seems to affect him deeply, as his swordplay visibly weakens.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: I manage to get another cut. Then another.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: "Until I manage to sink the blade into Shaitan\u2019s side."
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: He stumbles to his knees and falls to the ground.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: As his form dissipates into dust, I just do a double fist in the air.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: "\u201CI am the master commander!\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
-  - character: {fileID: 0}
+    text: <i>Why did I just say that?</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: <i>...the moment. It fit the moment.</i>
   - character: {fileID: 0}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: 
+    text: And with that, a wounded warrior headed back, for a reward. Was. Beckoning!

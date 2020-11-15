@@ -703,7 +703,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a03a6ecce3446ba4e9ee91e8c6bdbcdb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  conversation: {fileID: 11400000, guid: e789b2aabd2247e46989395a818c051f, type: 2}
+  conversation: {fileID: 11400000, guid: a7533f600792b214db78242df27ccd0f, type: 2}
   narrationScreen: {fileID: 1698465914}
   speakerLeft: {fileID: 1247824507}
   speakerRight: {fileID: 1470263164}

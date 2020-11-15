@@ -1,0 +1,598 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b92dd81746d0f46b57c70d003557b9, type: 3}
+  m_Name: ALTERNATE
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+  speakerRight: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+  lines:
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I woke up with a splitting headache, alone in the middle of the palace
+      throne room.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: How long has it been since I was swindled by Shaitan?
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I slowly stand back up, trying to collect my bearings as well as my balance.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>These demon\u2019s deals have been pretty hit or miss, eh?</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I chuckle to myself before the reality sinks in.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>Shaitan knows what I\u2019ve done. He knows who I work for. There\u2019s
+      no way he doesn\u2019t throw me to the proverbial wolves.</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I start to move it. A walk, into a jog, into a sprint as I regain my faculties.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: When I finally reach the mansion, the sight there was the furthest from
+      what I ever could have expected.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "There, just outside the gate, were the 3 Lords of Sin I\u2019ve faced
+      through this insane servitude. "
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Mammon, Asmodeus, and Shaitan all stood in various levels of comfort, waiting
+      for something. Or someone.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Upon seeing me, Asmodeus alerts her siblings, and the three beckon me to
+      them.
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CAahh, the man of the moment finally shows up.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CHuh? What are you all doing here? And what do you want with me?\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Shaitan grumbles, and Mammon cowers at the sound, tightly gripping his
+      little pile of gold.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Asmodeus gives them both a look and returns her attention to me.
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CThe three of us had a chat, and we think there\u2019s a golden opportunity
+      for all of us here.\u201D"
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CYou\u2019re clearly the kind of strong man who knows a good deal
+      when he sees one.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I give a knowing nod.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CI\u2019m nothing if not open to making a deal when one shows up.\u201D"
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201COh, I know you are\u201D"
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CSee, we are quite vexed with our brother for trying to kill us.\u201D"
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CBut you, the tenacious man you are, were smart enough to see the
+      winning side.\u201D"
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CSo, we three would like to offer you one last deal.\u201D"
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWrath will give you the power he offered but didn\u2019t give before.\u201D"
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CIn return, you, with us just behind, kill the Lord of Pride.\u201D"
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWith the job done, you get your freedom to do with this world as
+      you wish with our blessing.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I can barely contain my willingness to jump on this offer.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I don\u2019t think I could even imagine a situation where I go against
+      what Asmodeus asked of me."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I nod my head in acquiescence.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Asmodeus smiles.
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CThen go, kill your former master, and become your own.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: She keeps up her smile as I walk to Shaitan to receive the power.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Shaitan looks like he\u2019d rather give this gift to an actual rat, but
+      nevertheless he puts his hand on my forehead."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: He speaks something that sounds like what Lucifer said when this all began.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I feel a pain unlike any before as the mark on my hand burns away, to be
+      replaced with another. The mark of Shaitan.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Shaitan grunts, and without a word, walks away.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I stand up, and I can feel Shaitan\u2019s power course through me."
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>It feels good.</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I head down the stairs in the mansion and approach the ornate door that
+      separates myself from Lucifer.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I take a few deep breaths to try and calm my nerves.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: My experience around Lucifer has taught me that stealth does not work.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: He seems to have a preternatural ability to detect invaders.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>A direct approach is the only option.</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: So, after preparing the blade in my hand, I charge into the door ready
+      to strike.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Lucifer, as predicted, notices me right away.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "However, for an incredibly useful few moments, he doesn\u2019t recognize
+      my intentions."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "By the time he does, I\u2019m right up next to him, swinging Shaitan\u2019s
+      blade."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Lucifer is quick, faster than any of the other demons I\u2019ve fought."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "He may be fast, but the power Shaitan\u2019s blade gives me is enough
+      to counter it."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Lucifer\u2019s claws rip up my shoulder. My blade sinks into Lucifer\u2019s
+      side."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I get thrown back to the ground, but not before getting a few good cuts
+      in myself.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: As I am prone on the ground, Lucifer blinks right above me.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: He puts his hand around my neck. I close my eyes.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u2026"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u2026"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I fall to the ground.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>Am I dead?</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I open one eye just a crack.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "By some virtue of pure luck, I somehow managed to stick Lucifer with Shaitan\u2019s
+      blade."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "The blade had sunk right into Lucifer\u2019s chest."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The Lord of Pride is dead.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 'Not even another moment passes before the 3 Lords show up in the vault.
+
+'
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Asmodeus slow claps as she walks up to me.
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWell done. You did it.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201COh, you know. I have some skill in things.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I wince in pain as I grab at my shoulder and side.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CSo, how\u2019s this work now then? I just keep the weapon and you
+      all...what exactly?\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Shaitan laughs. Asmodeus takes a dark demeanor.
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CKeep it? No. Your fate is sealed.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I give a look of pure confusion/
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CYou truly are an imbecile. Twice you\u2019ve been offered power
+      from Shaitan and twice you accepted, knowing full well what he said before\u2026\u201D"
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CHE DOESN\u2019T MAKE DEALS.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I feel a wracking pain across my whole body. The power of the sword being
+      lost is like every bone being shattered in a million places while being burned
+      alive.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "It\u2019s unbearable."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: After what feels like an eternity, the pain finally blissfully ends.
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CThe only future for you is one as our slave.\u201D"
+  - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CAnd we're not as lax a master as your previous one.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The pain begins again.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The world goes black.

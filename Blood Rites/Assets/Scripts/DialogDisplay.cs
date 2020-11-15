@@ -20,7 +20,7 @@ public class DialogDisplay : MonoBehaviour
         public Button goodButton;
         public Button badButton;
 
-        private int activeLineIndex = 20;
+        private int activeLineIndex = 36;
 
         private bool hasDecision;
         private bool hasNarration;
@@ -43,11 +43,7 @@ public class DialogDisplay : MonoBehaviour
         if(SceneManager.GetActiveScene().name == "Intro")
         {
             accepts = 0;
-            choice = 3;
-        }
-        if(SceneManager.GetActiveScene().name == "Greed")
-        {
-            choice = 2;
+            choice = 4;
         }
     }
 
@@ -84,6 +80,9 @@ public class DialogDisplay : MonoBehaviour
                 break;
             case 3:
                 activeLineIndex += 20;
+                break;
+            case 4:
+                activeLineIndex += 13;
                 break;
         }   
         AdvanceConversation();
@@ -189,6 +188,9 @@ public class DialogDisplay : MonoBehaviour
                     break;
                 case 3:
                     activeLineIndex += 18;
+                    break;
+                case 4:
+                    SceneManager.LoadScene(2);
                     break;
             }
            // activeLineIndex += 7;
