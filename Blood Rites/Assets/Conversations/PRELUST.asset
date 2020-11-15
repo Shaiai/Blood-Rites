@@ -1,0 +1,383 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b92dd81746d0f46b57c70d003557b9, type: 3}
+  m_Name: PRELUST
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+  speakerRight: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+  lines:
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: As I walked up to the Covington Mansion, I felt my nerves go back on edge.
+      Would this be the end?
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I had dealt with The Lord of Greed. Maybe I could convince Lucifer to cut
+      me some slack?
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I give a hollow laugh.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>Yeah, and 7 Virtues will all come down and bless my soul.</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: As I approach the mansion, I realize the security was back.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: But in truth, it was never gone.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: One of the guards sees me approach the front gate and with a terse motion,
+      lets me through.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I walk down to the basement vault, and back to the Lord of Pride\u2019s
+      throne."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: There I find my demon master waiting.
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CAhh, the worm squirms back. Good.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I take a knee before Lucifer.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: '"My Lord, Mammon won''t be a problem anymore."'
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201COf course, he is. You wouldn\u2019t be foolish enough to come back
+      here unless he was.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWhat\u2019s next for me, Lord Pride?\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CI told you before. My sister, Asmodeus, must be reunited with Mammon
+      in death.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CInfuriatingly, my servants have failed me once again. They\u2019ve
+      been unable to locate her.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>She is the Lord of Lust, so she will probably want to have a lair that
+      breeds it.</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201C...\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201C...\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CMy Lord, I think I may have an idea for where the Lady Lust might
+      be.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Lucifer looks surprised.
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CDo you now? Well, let\u2019s see if you can succeed where my scions
+      failed.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWhere is it you think she may be lurking?\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWell, it\u2019s simple.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CYou have set yourself up at the most famous building in the city.
+      Mammon at a place full of gold.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CBoth of these choices make sense for you, given your character and...nature.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CSo Asmodeus would go somewhere she can be around pure desire as
+      much as possible.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CThere\u2019s only one place in this city that meets that requirement.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CHm\u2026 Alright then. Go to this place and bring back her head.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CBut before you do, there are some things you should know about Asmodeus.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CShe is far craftier and more intelligent than Mammon ever was.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CDon\u2019t give her a chance to start speaking. Once she has your
+      ear, she has your heart.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I stand back up on my feet, and with the deference I know Lucifer demands,
+      I leave him and the mansion.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: As I walk the streets of the noble district, my nerves go back on edge.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>She has to be there. Nowhere else makes sense.</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Eventually, I reach the outskirts of a large building. The Sultry Maiden.
+      The continent\u2019s largest brothel."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: As I walk in, I attempt to keep focus from all the distractions around
+      me.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>I\u2019m not here for a good time. I\u2019m here because I have to
+      be.</i>"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>I\u2019m not here for a good time. I\u2019m here because I have to
+      be.</i>"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>I\u2019m not here for a good time. I\u2019m here because I have to
+      be.</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I repeat the thought in my head over and over.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Eventually, I find a room away from anyone else and I take a moment to
+      think.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>Asmodeus is almost certainly hiding somewhere in this place.</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: But there were a hundred different private rooms and hallways. It would
+      take an eternity to search them all.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>Well, I should start at the bottom and work my way up.</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Right in front of me were some stairs down. I take them.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I find a complex arrangement of hallways and rooms, far more convoluted
+      than the floor just above.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "After I\u2019ve taken a few more steps, I see some lesser demons walking
+      around. This is it!\r"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "It\u2019s time to take down The Lord of Lust, Asmodeus."

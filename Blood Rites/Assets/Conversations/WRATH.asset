@@ -1,0 +1,717 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b92dd81746d0f46b57c70d003557b9, type: 3}
+  m_Name: WRATH
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+  speakerRight: {fileID: 0}
+  lines:
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: With Shaitan defeated, I lower my weapon.
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWhat are you waiting for, human?\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CAren\u2019t you going to offer me some deal for your life?\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CIt\u2019s what your siblings have all done.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Shaitan gives a booming laugh.
+  - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201COh, I know of what\u2019s become of my siblings.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 

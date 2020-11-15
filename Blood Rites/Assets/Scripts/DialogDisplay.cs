@@ -20,12 +20,12 @@ public class DialogDisplay : MonoBehaviour
         public Button goodButton;
         public Button badButton;
 
-        private int activeLineIndex = 0;
+        private int activeLineIndex = 20;
 
         private bool hasDecision;
         private bool hasNarration;
         private int isEndOfChoice;
-        int choice;
+        int choice, accepts;
         private string good;
         private string bad;
     
@@ -42,7 +42,12 @@ public class DialogDisplay : MonoBehaviour
 
         if(SceneManager.GetActiveScene().name == "Intro")
         {
-            choice = 1;
+            accepts = 0;
+            choice = 3;
+        }
+        if(SceneManager.GetActiveScene().name == "Greed")
+        {
+            choice = 2;
         }
     }
 
@@ -56,16 +61,6 @@ public class DialogDisplay : MonoBehaviour
             AdvanceConversation();
         }
         
-    }
-
-    void onDisable()
-    {
-        PlayerPrefs.SetInt("choice", choice);
-    }
-
-    void onEnable()
-    {
-        choice = PlayerPrefs.GetInt("choice", 1);
     }
 
     public void goodChange()
@@ -83,7 +78,12 @@ public class DialogDisplay : MonoBehaviour
         {
             case 1:
                 activeLineIndex += 9;
-                choice++;
+                break;
+            case 2:
+                activeLineIndex += 23;
+                break;
+            case 3:
+                activeLineIndex += 20;
                 break;
         }   
         AdvanceConversation();
@@ -183,6 +183,12 @@ public class DialogDisplay : MonoBehaviour
             {
                 case 1:
                     SceneManager.LoadScene(0);
+                    break;
+                case 2:
+                    activeLineIndex += 15;
+                    break;
+                case 3:
+                    activeLineIndex += 18;
                     break;
             }
            // activeLineIndex += 7;

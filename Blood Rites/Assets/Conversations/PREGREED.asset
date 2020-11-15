@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f6b92dd81746d0f46b57c70d003557b9, type: 3}
-  m_Name: INTRO
+  m_Name: PREGREED
   m_EditorClassIdentifier: 
   speakerLeft: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
   speakerRight: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
@@ -348,8 +348,8 @@ MonoBehaviour:
     decision: 1
     narration: 0
     endOfChoice: 0
-    decision1: Turn Back
-    decision2: Keep Going
+    decision1: TURN BACK
+    decision2: KEEP GOING
     text: 
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
@@ -407,14 +407,14 @@ MonoBehaviour:
   - character: {fileID: 0}
     decision: 0
     narration: 1
-    endOfChoice: 0
+    endOfChoice: 1
     decision1: 
     decision2: 
     text: GAME OVER
   - character: {fileID: 0}
     decision: 0
-    narration: 0
-    endOfChoice: 1
+    narration: 1
+    endOfChoice: 0
     decision1: 
     decision2: 
     text: 

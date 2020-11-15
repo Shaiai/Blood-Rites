@@ -1,0 +1,493 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b92dd81746d0f46b57c70d003557b9, type: 3}
+  m_Name: PREWRATH
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+  speakerRight: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+  lines:
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Walking back to the Mansion has a different energy now.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 'Two Lords of Sin have faced me and lost. '
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: If I can do that, I can deal with anything else Lucifer could throw at
+      me.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The demons at the gates of the mansion recognized me and let me pass without
+      issue.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I give them a short tip of the head and a knowing smile.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>I\u2019m feeling confident.</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I walk down to the vault to where the Lord of Pride awaits.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "As I walk in, I\u2019m taken aback at what I see."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 'Lucifer seemed to have grown. Not just in size; he appeared 40% larger.
+      But also, in power. '
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: My previous confidence drained away at the sight of my master.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: It suddenly felt foolhardy to be anything but meek and deferential
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Lucifer\u2019s voice boomed as he spoke to me"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CSlave! You return. Which means you must have been successful. Good.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "He laughs with a mania unbefitting the Lucifer I\u2019ve learned of."
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CI\u2019ve come so close now. Through all this work I\u2019ve done,
+      the coup is almost defeated!\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>Work that HE\u2019S done?</i>"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CAll that\u2019s left is to take down that pompous so-called <i>leader</i>
+      of theirs.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWho would that be my Lord?\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Lucifer seems to snap back to reality, like he\u2019d forgotten about
+      the world around him."
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CMy cretinous brother. The Lord of Wrath. Shaitan.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CHe\u2019s been running this rebellion against Hell from the shadows.
+      But thanks to my brilliance, we are on the path to victory.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWith his death, this will be over.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I get a bit excited at my future with that last line.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CYou\u2019re <i>truly</i> incredible, my Lord. Where might I find
+      Shaitan?\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CAfterall, I assume you\u2019ll be using your greatest weapon to
+      win this.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CYes, I will, and yes, you have come to be.\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CShaitan has taken up in the palace. You know him as the Duke.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I skip a beat.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CThe Duke, my Lord? The regent of this land, is also the Lord of
+      Wrath?\u201D"
+  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CHe is. And you\u2019re going to be the one to kill him.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CYou got it, bud-- my Lord.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I hold for a moment to see if Lucifer noticed what I\u2019d said, but
+      he appeared to be lost in himself."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I took this opportunity to make my way out and to start to prepare for
+      the coming battle.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: As I approached the palace, I could feel the power emanating from it.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The building was placed atop a hill in the center of the city, high enough
+      above the rabble around it that the building could be seen from miles away.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The Covington Mansion was certainly built by those who loved displaying
+      their wealth and fortune, but the palace dwarfed even that.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>This is large enough to house half the city.</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>I wouldn\u2019t mind just squatting here for the rest of my days when
+      this business with Lucifer is done. Assuming there is a time after.</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I push that thought out of my mind. There was no point worrying about that
+      when there was nothing I could do about it anyways.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: As I make the slow climb up the hill to the gates, I start to formulate
+      my plan.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: There is surely to be armies of guards and minions of Shaitan all around
+      this building.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: It would be in my best interest to pick a route that has as little of that
+      force in my way as possible.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>That eliminates the front door. And the back door. And probably most
+      side doors.</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>It eliminates pretty much every door.</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I shake my head. This isn\u2019t working."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I go through plan after plan on my walk, rejecting them all.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Eventually, I get so frustrated that I decide the only option was to just
+      go for it.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I walk up against the fence and go prone amongst some bushes right next
+      to it.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: There were guards patrolling, with what appeared to be an around 10 second
+      gap at the most between the patrols.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I continue to watch them, looking for a route up to the building that maximizes
+      my time to get inside without being seen.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: My previous thoughts ended up being mostly pointless, because pretty much
+      every conceivable route, from window to door, was equally guarded.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>Then I\u2019ll just go for the closest door.</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I get up from the ground and get myself ready to dart across the fence
+      and yard as soon as the window opens.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I hear the guards give their usual nod of the head and start to walk away.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>Now!</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I, as nimbly as possible, barrel roll over the fence, and book it across
+      to the building.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The door closes as the next patrol rounds the corner.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "As I turn around\u2026"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: This is the lair of a sadistic despot.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I chuckle to myself.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>What did I expect from the lair of the Lord of Wrath from Hell?</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I\u2019m snapped back to reality as I hear chatter of some things down
+      the hall."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I get my weapon ready.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>Time to kill Shaitan.</i>

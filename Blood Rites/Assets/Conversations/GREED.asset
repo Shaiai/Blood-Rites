@@ -1,0 +1,559 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b92dd81746d0f46b57c70d003557b9, type: 3}
+  m_Name: GREED
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+  speakerRight: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
+  lines:
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Having defeated Mammon, the demon attempts to crawl away from me.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I give chase, but even in his weakened state, the Lord of Greed is wily.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I keep taking swings with my sword at Mammon, but it only meets air.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 'Eventually, Mammon makes a mistake. He turned into a room where there
+      was no escape. '
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Mammon starts to bargain.
+  - character: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWhoa whoa whoa. Hold on there friend. W-What are we doing here?
+      What do you want?\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 'I take a moment to breathe. '
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>I\u2019ve done it! The Lord of Greed is down and out!</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I don\u2019t respond to Mammon\u2019s query and start walking towards
+      him."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Mammon begins to laugh. It starts as a small chuckle and grows into a maniacal
+      laugh.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Mammon had used the delay to regroup!
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I stop in my tracks. My jaw drops.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Mammon was shifting. Growing. Mutating.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: What was once a small, diminutive demon, quickly became an overpowering
+      force.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Mammon stands tall before me. His previous nervous demeanor has changed
+      to a sanguine one.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I begin to panic.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>Am I strong enough to fight this? This isn\u2019t the same beast I
+      just took down\u2026</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I start to step back. Mammon keeps up his smile.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: 
+  - character: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CYou\u2019re going to die now.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I keep taking some steps back, eventually falling over onto the ground.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Another moment later, my left hand begins to burn. I look over at it and
+      see the sigil glowing brightly with a blue hue.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The sigil starts to burn. Pain courses through my arm. Mammon looks confused
+      at the sight momentarily. Until realization seems to paint his face.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The pain subsides. I manage to stand back up. Before I can start to retreat,
+      A mist envelopes my hands.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: As it clears, a dagger of pure energy solidifies in my grasp. As I gain
+      full hold of the spectral weapon, an ethereal voice speaks into my ears.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>This weapon is the only one capable of eliminating a Lord of Sin forever.
+      One stab is all it should take</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The tables turned once again. Mammon, suddenly apparently terrified, begins
+      to shift back to the diminutive form he held before.
+  - character: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CLet\u2019s not be hasty, friend. We can come to an arrangement.
+      Humans always want something. I have just the thing for you.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CAnd what would that be?\u201D"
+  - character: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CMy wealth of course! It\u2019s here. I can give it to you. Just
+      let me go, and it\u2019s yours.\u201D"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CAnd what\u2019s to stop me from learning where it is, and just killing
+      you then?\u201D"
+  - character: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWhat do you take me for? I wouldn\u2019t leave my hoard without
+      any security. If you want to leave here with it alive, you\u2019ll need me
+      alive too.\u201D"
+  - character: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CWell, what do you say?\u201D"
+  - character: {fileID: 0}
+    decision: 1
+    narration: 0
+    endOfChoice: 0
+    decision1: ACCEPT
+    decision2: REFUSE
+    text: 
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>And why shouldn\u2019t I take the deal?</i>"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>What loyalty do I owe to Lucifer?</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>The only thing the Lord of Pride has done for me is enslaving me. </i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>And I certianly will not be magnaminous for a Demonic Lord</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CVery well. You lead. I\u2019m not taking my eyes off you.\u201D"
+  - character: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CGood. Follow.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Mammon leads me down through the labyrinthine hallways of the complex.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The hallways are dark, the only light emanating from my dagger and the
+      occasional torch.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Mammon slinks around every corner and down every hall. I can\u2019t help
+      but be on edge that I\u2019m going to be double-crossed."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: But a sneak attack never comes. Mammon continues to lead me without issue.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: After an inordinately long time, we finally reach a door that looks like
+      the entrance to a vault. Mammon walks right up next to it.
+  - character: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CEt in avaritia avaritia bonus sum\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: The door creaks to life, opening upon an ocean of  glittering gold, trinkets,
+      and baubles...
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Paid for in blood.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: My eyes glow.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>The Covington Mansion has nothing on this. I\u2019m set for life!</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: As I walk into the collection, the sigil on my hand weakens and the dagger
+      dissipates. Mammon begins to walk away.
+  - character: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CNo gold is worth my life. I'm outta here!\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I barely register it being said. That thing doesn\u2019t matter anymore.
+      A portal opens and Mammon walks through. I don\u2019t care."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "I collect up as much of it as I can before I realize there\u2019s no way
+      I can efficiently take all this back to my base. But then it hits me. "
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Mammon and his posse are gone. Why don\u2019t I just make this my new
+      hideout?"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: So I do just that. Before I report to Pride, I make my way back to my old
+      hovel and grab my few belongings.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 2
+    decision1: 
+    decision2: 
+    text: "Once I\u2019ve set everything up, I make the long walk to Covington Mansion."
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>Tempting as that wealth is, turning against Lucifer terrifies me more.</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>He would know that I failed him, right? I can\u2019t risk it.</i>"
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201C.....No.\u201D"
+  - character: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Mammon takes a surprised, sharp breath. Then his face takes an angry turn.
+  - character: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u201CI won\u2019t go down so easily, servant of Pride.\u201D"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Mammon leaps into the air and attacks me.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u2026 "
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: '*shunk*'
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "\u2026"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "The ethereal dagger lands right in Mammon\u2019s chest. The Lord of Greed
+      makes some garbles of pain before I pull the dagger out and he starts to fall."
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: Before there is even a sound of him landing, the body explodes in smoky
+      light, dissipating into dust.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I feel my entire body shake. I fall to my knees. The dagger falls out of
+      my hand and dissolves just as Mammon did.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: I take a long moment to collect my thoughts and slow my breathing.
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
+    decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "<i>I\u2019ve done it. A Lord of Sin is dead.</i>"
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: <i>How many could say they've destroyed a Demonic Lord?</i>
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: "Once I\u2019ve collected my thoughts. I make my way back to Covington
+      Mansion and Lucifer."
