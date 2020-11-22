@@ -204,7 +204,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 20776635}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 736323486}
+        m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
+        m_MethodName: ControlMenu
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &20776635
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1148,6 +1160,14 @@ PrefabInstance:
     - target: {fileID: 3121310886418060425, guid: e7dade4a3bd15db48bb267dd13ceea67, type: 3}
       propertyPath: m_Name
       value: LevelLoader
+      objectReference: {fileID: 0}
+    - target: {fileID: 3121310886418060425, guid: e7dade4a3bd15db48bb267dd13ceea67, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3121310886456991702, guid: e7dade4a3bd15db48bb267dd13ceea67, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3121310886456991703, guid: e7dade4a3bd15db48bb267dd13ceea67, type: 3}
       propertyPath: m_LocalRotation.x

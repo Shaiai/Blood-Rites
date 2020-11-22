@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DungeonCrawl.unity
     guid: d69b3dfaa2407534591ce9fcb1fd0198
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: ce5e3a5488353864495cd026b1a06ab6
   m_configObjects: {}

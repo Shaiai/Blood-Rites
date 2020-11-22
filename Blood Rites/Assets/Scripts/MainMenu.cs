@@ -19,4 +19,10 @@ public class MainMenu : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public void ControlMenu()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
+    }
+
 }
