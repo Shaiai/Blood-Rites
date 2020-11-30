@@ -148,13 +148,6 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: I start to step back. Mammon keeps up his smile.
-  - character: {fileID: 0}
-    decision: 0
-    narration: 0
-    endOfChoice: 0
-    decision1: 
-    decision2: 
-    text: 
   - character: {fileID: 11400000, guid: 65f4b606cc4f2cf4e833170744903b64, type: 2}
     decision: 0
     narration: 0
@@ -195,7 +188,7 @@ MonoBehaviour:
       A mist envelopes my hands.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 

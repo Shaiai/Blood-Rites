@@ -107,7 +107,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "\u201CI don\u2019t make deals. I win.\u201D"
-  - character: {fileID: 0}
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
@@ -168,14 +168,14 @@ MonoBehaviour:
     text: "\u201CLucifer himself may be powerful, but his dagger is worthless.\u201D"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
     text: He spits out every word, barely able to contain his laughter.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
@@ -252,7 +252,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>What <b>could</b> I do with power like that?</i>
+    text: <i>What could I do with power like that?</i>
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -260,15 +260,14 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: <i>I could probably kill Shaitan myself and be free of him forever.</i>
-  - character: {fileID: 0}
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>But if I take it, what will happen to me if, or <b>when</b> Lucifer
-      finds out</i>
-  - character: {fileID: 0}
+    text: <i>But if I take it, what will happen to me if, or when Lucifer finds out</i>
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
@@ -514,7 +513,7 @@ MonoBehaviour:
     text: <i>...the moment. It fit the moment.</i>
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 

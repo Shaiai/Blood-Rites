@@ -12,6 +12,36 @@ EditorBuildSettings:
     path: Assets/Scenes/Intro.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/talkGreed.unity
+    guid: 6207cc0dacad18e43b9e93158c4d1f40
+  - enabled: 1
+    path: Assets/Scenes/talkPreLust.unity
+    guid: 73bd624902e51bf4ab2f624c0564d42c
+  - enabled: 1
+    path: Assets/Scenes/talkLust.unity
+    guid: abdc68268cbf57e4b92c2b1c0006a2bf
+  - enabled: 1
+    path: Assets/Scenes/talkPreWrath.unity
+    guid: c7af45be7fe3e474798534f2cea8232e
+  - enabled: 1
+    path: Assets/Scenes/talkWrath.unity
+    guid: be13f9bd3f60c53408ae89dab48adb20
+  - enabled: 1
+    path: Assets/Scenes/talkEnd.unity
+    guid: 1aac7b39e05077b4bb50d735c4df4924
+  - enabled: 1
+    path: Assets/Scenes/talkAlt.unity
+    guid: 36ac268321f67df43aa9290d5cd1f4c3
+  - enabled: 1
+    path: Assets/Scenes/Dungeon Level2.unity
+    guid: ee8c6dfe715c3b54384c8c777aa5cc5d
+  - enabled: 1
+    path: Assets/Scenes/Dungeon Level1.unity
+    guid: dfa8029559d94e44a8a191f2733aff12
+  - enabled: 1
+    path: Assets/Scenes/Dungeon Level3.unity
+    guid: 0794e254acdb5274289b7aa4e343e0e3
+  - enabled: 1
     path: Assets/Scenes/DungeonCrawl.unity
     guid: d69b3dfaa2407534591ce9fcb1fd0198
   - enabled: 1
