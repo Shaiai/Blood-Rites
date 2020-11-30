@@ -783,7 +783,7 @@ MonoBehaviour:
       mansion.\u201D"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 

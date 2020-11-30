@@ -703,7 +703,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a03a6ecce3446ba4e9ee91e8c6bdbcdb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  conversation: {fileID: 11400000, guid: 3da6103d8a016804899bcdb70b584d3a, type: 2}
+  conversation: {fileID: 11400000, guid: 4f1ede32fd8bc62428611c848669a1c1, type: 2}
   narrationScreen: {fileID: 1698465914}
   speakerLeft: {fileID: 1247824507}
   speakerRight: {fileID: 1470263164}
@@ -2028,7 +2028,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &848474957183799197
+--- !u!1001 &1891071134
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2

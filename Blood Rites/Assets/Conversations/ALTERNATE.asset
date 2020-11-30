@@ -511,7 +511,7 @@ MonoBehaviour:
       all...what exactly?\u201D"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
@@ -529,7 +529,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: I give a look of pure confusion/
+    text: I give a look of pure confusion.
   - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
     decision: 0
     narration: 0
@@ -591,8 +591,15 @@ MonoBehaviour:
     text: The pain begins again.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
     text: The world goes black.
+  - character: {fileID: 0}
+    decision: 0
+    narration: 1
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: THE END

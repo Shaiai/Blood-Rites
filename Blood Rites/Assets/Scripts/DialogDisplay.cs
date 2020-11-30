@@ -20,7 +20,8 @@ public class DialogDisplay : MonoBehaviour
         public Button goodButton;
         public Button badButton;
 
-        private int activeLineIndex = 36;
+
+        private int activeLineIndex = 0;
 
         private bool hasDecision;
         private bool hasNarration;
@@ -31,6 +32,7 @@ public class DialogDisplay : MonoBehaviour
     
     void Start()
     {
+        accepts = Manager.Instance.dealsTaken;
         speakerUILeft = speakerLeft.GetComponent<SpeakerUI>();
         speakerUIRight = speakerRight.GetComponent<SpeakerUI>();
 
@@ -40,11 +42,26 @@ public class DialogDisplay : MonoBehaviour
         goodButton.gameObject.SetActive(false);
         badButton.gameObject.SetActive(false);
 
-        if(SceneManager.GetActiveScene().name == "Intro")
+        switch(SceneManager.GetActiveScene().name)
+        {
+            case "Intro":
+                choice = 1;
+                break;
+            case "talkGreed":
+                choice = 2;
+                break;
+            case "talkLust":
+                choice = 3;
+                break;
+            case "talkWrath":
+                choice = 4;
+                break;
+        }
+        /*if(SceneManager.GetActiveScene().name == "Intro")
         {
             accepts = 0;
-            choice = 4;
-        }
+            choice = 1;
+        }*/
     }
 
     
@@ -110,6 +127,7 @@ public class DialogDisplay : MonoBehaviour
         //At the end of text Dialog switch to next scene.
         if(activeLineIndex == conversation.lines.Length)
         {
+            Manager.Instance.dealsTaken = accepts;
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex +1);
         }
 
