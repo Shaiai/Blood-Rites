@@ -49,7 +49,7 @@ MonoBehaviour:
   m_Color: {r: 0.8396226, g: 0.5192516, b: 0.027723404, a: 1}
   m_Intensity: 1
   m_LightVolumeOpacity: 0
-  m_ApplyToSortingLayers: 00000000
+  m_ApplyToSortingLayers: 00000000a56df827
   m_LightCookieSprite: {fileID: 0}
   m_UseNormalMap: 0
   m_LightOrder: 0
@@ -83,6 +83,7 @@ GameObject:
   - component: {fileID: 8958271398526015192}
   - component: {fileID: 8958271398526015193}
   - component: {fileID: 8958271398526015194}
+  - component: {fileID: 2070656723}
   m_Layer: 0
   m_Name: StandingCandle
   m_TagString: Untagged
@@ -142,9 +143,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 670592421
-  m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingLayerID: -939750535
+  m_SortingLayer: 4
+  m_SortingOrder: -206
   m_Sprite: {fileID: -1290545944940480769, guid: ee91b85c8ba609e4992775bfc09a4092, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -175,3 +176,15 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &2070656723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8958271398526015195}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3265a210d35b6f24f92539c7c7a95c03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

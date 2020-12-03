@@ -6,6 +6,8 @@ public class Manager : MonoBehaviour
 {
     public static Manager Instance;
 
+    int remainingEnemy;
+
     public int dealsTaken;
     // Start is called before the first frame update
     void Awake()
@@ -19,6 +21,13 @@ public class Manager : MonoBehaviour
         {
             Destroy(gameObject);
         }
+    }
+
+
+    void Update()
+    {
+        remainingEnemy = GameObject.FindGameObjectsWithTag("enemy").Length;
+        Debug.Log("Current Enemies Remaining: " + remainingEnemy);
     }
 
     void SaveDecisions()
