@@ -1496,6 +1496,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NarrationScreen
       objectReference: {fileID: 0}
+    - target: {fileID: 3309198948228785535, guid: f4d4d06c449d40e40b1b56c00140fe16, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3309198948671340902, guid: f4d4d06c449d40e40b1b56c00140fe16, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: -14.62
