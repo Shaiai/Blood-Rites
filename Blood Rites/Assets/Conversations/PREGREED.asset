@@ -482,7 +482,7 @@ MonoBehaviour:
       knees begging with whatever was sitting on the throne.
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
@@ -494,7 +494,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: I feel the blood drain from my face as fear grips me.
-  - character: {fileID: 0}
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
@@ -509,7 +509,7 @@ MonoBehaviour:
     decision2: 
     text: "\u201CDo I look like the type who accepts apologies? Or one who gives
       second chances?\u201D"
-  - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
+  - character: {fileID: 0}
     decision: 0
     narration: 1
     endOfChoice: 0
@@ -618,7 +618,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: The demon seems to study me, looking over everything.
-  - character: {fileID: 0}
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
@@ -664,7 +664,7 @@ MonoBehaviour:
       that\u2019s going on here, but before I can say a word\u2026"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
@@ -781,9 +781,9 @@ MonoBehaviour:
     decision2: 
     text: "\u201CAfterall, few could reach me alive with my generals patrolling the
       mansion.\u201D"
-  - character: {fileID: 0}
+  - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
-    narration: 1
+    narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
@@ -794,7 +794,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: Lucifer continued.
+    text: Lucifer continues.
   - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
     decision: 0
     narration: 0
@@ -872,7 +872,7 @@ MonoBehaviour:
     text: "\u201CSpeak out of turn again, and the pain will be calamitous.\u201D"
   - character: {fileID: 0}
     decision: 0
-    narration: 0
+    narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 

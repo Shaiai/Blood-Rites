@@ -32,7 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/talkAlt.unity
     guid: 36ac268321f67df43aa9290d5cd1f4c3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Dungeon Level2.unity
     guid: ee8c6dfe715c3b54384c8c777aa5cc5d
   - enabled: 1

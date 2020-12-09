@@ -8,31 +8,31 @@ using TMPro;
 
 public class DialogDisplay : MonoBehaviour
 {
-        public Conversation conversation;
-        public GameObject narrationScreen;
+    public Conversation conversation;
+    public GameObject narrationScreen;
 
-        public GameObject speakerLeft;
-        public GameObject speakerRight;
+    public GameObject speakerLeft;
+    public GameObject speakerRight;
 
-        private SpeakerUI speakerUILeft;
-        private SpeakerUI speakerUIRight;
+    private SpeakerUI speakerUILeft;
+    private SpeakerUI speakerUIRight;
 
-        public Button goodButton;
-        public Button badButton;
+    public Button goodButton;
+    public Button badButton;
 
+    public Writer writer;
 
-        private int activeLineIndex = 0;
+    private int activeLineIndex = 0;
 
-        private bool hasDecision;
-        private bool hasNarration;
-        private int isEndOfChoice;
-        int choice, accepts;
-        private string good;
-        private string bad;
+    private bool hasDecision;
+    private bool hasNarration;
+    private int isEndOfChoice;
+    int choice, dealsTaken;
+    private string good;
+    private string bad;
     
     void Start()
     {
-        accepts = Manager.Instance.dealsTaken;
         speakerUILeft = speakerLeft.GetComponent<SpeakerUI>();
         speakerUIRight = speakerRight.GetComponent<SpeakerUI>();
 
@@ -42,9 +42,13 @@ public class DialogDisplay : MonoBehaviour
         goodButton.gameObject.SetActive(false);
         badButton.gameObject.SetActive(false);
 
+        dealsTaken = PlayerPrefs.GetInt("dealsTaken", 0);
+
         switch(SceneManager.GetActiveScene().name)
         {
             case "Intro":
+                dealsTaken = 0;
+                PlayerPrefs.DeleteAll();
                 choice = 1;
                 break;
             case "talkGreed":
@@ -57,11 +61,12 @@ public class DialogDisplay : MonoBehaviour
                 choice = 4;
                 break;
         }
-        /*if(SceneManager.GetActiveScene().name == "Intro")
-        {
-            accepts = 0;
-            choice = 1;
-        }*/
+        AdvanceConversation();
+    }
+
+    void onDestroy()
+    {
+        PlayerPrefs.SetInt("dealsTaken", dealsTaken);
     }
 
     
@@ -81,7 +86,7 @@ public class DialogDisplay : MonoBehaviour
         AdvanceConversation();
         hasDecision = false;         
         goodButton.gameObject.SetActive(false);
-
+        dealsTaken += 1;
         badButton.gameObject.SetActive(false);
     }
      public void badChange()
@@ -127,8 +132,8 @@ public class DialogDisplay : MonoBehaviour
         //At the end of text Dialog switch to next scene.
         if(activeLineIndex == conversation.lines.Length)
         {
-            Manager.Instance.dealsTaken = accepts;
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex +1);
+            if(choice != 4)
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex +1);
         }
 
         //Function that displays text to the correct panels
@@ -164,7 +169,8 @@ public class DialogDisplay : MonoBehaviour
 
         void SetDialog(SpeakerUI activeSpeakerUI, SpeakerUI inactiveSpeakerUI, string text)
         {
-            activeSpeakerUI.Dialog = text;
+            writer.enabled = true;
+            writer.buildWriter(activeSpeakerUI, text, 0.03f, false);
             activeSpeakerUI.Show();
             inactiveSpeakerUI.Hide();
         }
@@ -190,7 +196,8 @@ public class DialogDisplay : MonoBehaviour
             speakerUILeft.Hide();
             speakerUIRight.Hide();
             narrationScreen.SetActive(true);
-            narrationScreen.GetComponentInChildren<Text>().text = conversation.lines[activeLineIndex - 1].text;
+            writer.enabled = true;
+            writer.buildWriter(narrationScreen.GetComponentInChildren<Text>(), conversation.lines[activeLineIndex - 1].text, 0.03f, true);
             hasNarration = false;
         }
 
@@ -199,7 +206,7 @@ public class DialogDisplay : MonoBehaviour
             switch(isEndOfChoice)
             {
                 case 1:
-                    SceneManager.LoadScene(0);
+                    SceneManager.LoadScene("Main Menu");
                     break;
                 case 2:
                     activeLineIndex += 15;
@@ -208,7 +215,10 @@ public class DialogDisplay : MonoBehaviour
                     activeLineIndex += 18;
                     break;
                 case 4:
-                    SceneManager.LoadScene(2);
+                    if(dealsTaken == 3)
+                        SceneManager.LoadScene("talkAlt");
+                    else
+                        SceneManager.LoadScene("talkEnd");
                     break;
             }
            // activeLineIndex += 7;

@@ -154,8 +154,15 @@ MonoBehaviour:
     text: '"I think I''ll..."'
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
+    narration: 0
+    endOfChoice: 0
+    decision1: 
+    decision2: 
+    text: '"I think I''ll end your hold on me."'
+  - character: {fileID: 0}
+    decision: 0
     narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: THE END
+    text: I attack.

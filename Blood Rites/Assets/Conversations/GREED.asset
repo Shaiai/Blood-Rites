@@ -21,14 +21,14 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: Having defeated Mammon, the demon attempts to crawl away from me.
+    text: Having found Mammon, the demon attempts to crawl away from me.
   - character: {fileID: 0}
     decision: 0
     narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: I give chase, but even in his weakened state, the Lord of Greed is wily.
+    text: I give chase, but even in his meagor state, the Lord of Greed is wily.
   - character: {fileID: 0}
     decision: 0
     narration: 1

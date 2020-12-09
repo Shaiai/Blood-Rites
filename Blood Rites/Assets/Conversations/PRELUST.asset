@@ -331,7 +331,7 @@ MonoBehaviour:
       think.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
-    narration: 1
+    narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
