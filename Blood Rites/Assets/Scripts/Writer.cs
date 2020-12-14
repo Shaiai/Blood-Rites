@@ -34,17 +34,22 @@ public class Writer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        string fullText;
+        string italics;
         timer -= Time.deltaTime;
         while (timer <= 0f)
         {
             timer += delta;
             ++index;
-            string fullText = text.Substring(0, index);
+            fullText = text.Substring(0, index);
+            italics = fullText.Substring(0,3);
+
+            if(italics == "<i>")
+                fullText += "</i>";
             if(!isNarration)
                 speaker.Dialog = fullText;
             else
                 box.text = fullText;
-
         }
         if(index >= text.Length)
         {

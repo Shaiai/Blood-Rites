@@ -21,14 +21,14 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Damnit! I was so close!</i>
+    text: <i>Damnit! I was so close!
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>That house had so much loot to be taken. But I had to go and ruin it.</i>
+    text: <i>That house had so much loot to be taken. But I had to go and ruin it.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -36,7 +36,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: <i>I mean, who puts a priceless and easily shattered vase in the middle
-      of their hallway?</i>
+      of their hallway?
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -50,7 +50,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Just my luck! My shirt has a tear in it.</i>
+    text: <i>Just my luck! My shirt has a tear in it.
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -65,7 +65,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>Well, at least I should have enough to get by for the next little while.
-      But I could\u2019ve been set for years!</i>"
+      But I could\u2019ve been set for years!"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -148,7 +148,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>It\u2019s been a disappointing day, I need to just check it out tonight.
-      I need a pick-me-up.</i>"
+      I need a pick-me-up."
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -193,7 +193,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Could this be my opportunity to break into the Covington Mansion?</i>
+    text: <i>Could this be my opportunity to break into the Covington Mansion?
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -209,14 +209,14 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>Should I bring someone else with me? No, I\u2019ll just have to split
-      the loot. Besides who knows how long this window will last.</i>"
+      the loot. Besides who knows how long this window will last."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>Should I\u2026 no. Would I be able\u2026. No. Dammit!</i>"
+    text: "<i>Should I\u2026 no. Would I be able\u2026. No. Dammit!"
   - character: {fileID: 0}
     decision: 0
     narration: 0
@@ -231,7 +231,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>There isn\u2019t any more time to plot this out. I just have to go.
-      I can\u2019t go ruining this opportunity. Life of luxury, here I come!</i>"
+      I can\u2019t go ruining this opportunity. Life of luxury, here I come!"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -264,14 +264,14 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>This has to be some sort of trap, right? It can\u2019t possibly be
-      this easy\u2026</i>"
+      this easy\u2026"
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>Trap or not, I\u2019m committed now. Might as well see it through.</i>"
+    text: "<i>Trap or not, I\u2019m committed now. Might as well see it through."
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -286,7 +286,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>The vault will probably be in the lower levels...</i>
+    text: <i>The vault will probably be in the lower levels...
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -336,7 +336,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>This is weirding me out. First, there isn\u2019t anyone guarding the
-      mansion anywhere, and now I find this?</i>"
+      mansion anywhere, and now I find this?"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -358,7 +358,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>This is just too much. Something is going on here, and I don\u2019t
-      trust it. I need to get outta here.</i>"
+      trust it. I need to get outta here."
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -382,28 +382,28 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>I\u2019ll never get a chance like that again.</i>"
+    text: "<i>I\u2019ll never get a chance like that again."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>Riches beyond my wildest dreams\u2026gone.</i>"
+    text: "<i>Riches beyond my wildest dreams\u2026gone."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>I\u2019m just a coward.</i>"
+    text: "<i>I\u2019m just a coward."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>I ruined everything.</i>
+    text: <i>I ruined everything.
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -425,14 +425,14 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>I\u2019ve gone this far. The haul of a lifetime must be on the other
-      side of this vault.</i>"
+      side of this vault."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>It\u2019s creepy, but I\u2019ve gone through much worse to get my payday.</i>"
+    text: "<i>It\u2019s creepy, but I\u2019ve gone through much worse to get my payday."
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -500,7 +500,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>That...that\u2019s a demon!</i>"
+    text: "<i>That...that\u2019s a demon!"
   - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
     decision: 0
     narration: 0
@@ -594,7 +594,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>Does he know I\u2019m here? What do I do? WHAT DO I DO?</i>"
+    text: "<i>Does he know I\u2019m here? What do I do? WHAT DO I DO?"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -624,7 +624,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>Why didn\u2019t I just turn and run when I had the chance?</i>"
+    text: "<i>Why didn\u2019t I just turn and run when I had the chance?"
   - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
     decision: 0
     narration: 0
@@ -787,7 +787,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>What? I didn\u2019t see anything. There were powerful demons around?</i>"
+    text: "<i>What? I didn\u2019t see anything. There were powerful demons around?"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -891,7 +891,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>How could any pain be worse than what I just went through?</i>
+    text: <i>How could any pain be worse than what I just went through?
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -930,7 +930,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Greed. Lust. Wrath. Pride wants me to destroy them?</i>
+    text: <i>Greed. Lust. Wrath. Pride wants me to destroy them?
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -1146,7 +1146,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>I\u2019m a slave?! I\u2019m a slave. And I have to kill Demon Lords
-      to change that.</i>"
+      to change that."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -1154,7 +1154,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>Why did I have to walk into that damn room? I should have just cut
-      my losses and go home. Why can\u2019t I just leave well enough alone?</i>"
+      my losses and go home. Why can\u2019t I just leave well enough alone?"
   - character: {fileID: 0}
     decision: 0
     narration: 1

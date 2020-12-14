@@ -29,7 +29,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>Well, a curt nod in my direction, but that\u2019s a lot more than I\u2019ve
-      gotten in the past.</i>"
+      gotten in the past."
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -100,7 +100,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Oh, how magnanimous.</i>
+    text: <i>Oh, how magnanimous.
   - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
     decision: 0
     narration: 0
@@ -130,14 +130,14 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: <i>Hmm. Live life as a servant to a Demon Lord, or back to my life as a
-      thief stealing from the random house.</i>
+      thief stealing from the random house.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>What will I pick?</i>
+    text: <i>What will I pick?
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0

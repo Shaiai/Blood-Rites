@@ -35,8 +35,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "\u201CGood sir, why? Why do you hurt someone as...<i>delicate</i> like
-      me?\u201D"
+    text: "\u201CGood sir, why? Why do you hurt someone as...delicate like me?\u201D"
   - character: {fileID: 11400000, guid: 5d2262ee5314cca4a9ed4f19b2173ffd, type: 2}
     decision: 0
     narration: 0
@@ -64,7 +63,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>No! Stay focused!</i>
+    text: <i>No! Stay focused!
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -109,7 +108,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "\u201CYou deserve pleasure. You deserve companionship. It can be so <i>lonely</i>
+    text: "\u201CYou deserve pleasure. You deserve companionship. It can be so lonely
       this life you live.\u201D"
   - character: {fileID: 0}
     decision: 0
@@ -177,35 +176,35 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>I hate to admit it, but she\u2019s right.</i>"
+    text: "<i>I hate to admit it, but she\u2019s right."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>A life of servitude, slavery, isn\u2019t one that breeds camaraderie.</i>"
+    text: "<i>A life of servitude, slavery, isn\u2019t one that breeds camaraderie."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Companionship.</i>
+    text: <i>Companionship.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>I need to get it where I can find it.</i>
+    text: <i>I need to get it where I can find it.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>And it\u2019s not like I can\u2019t just finish my job afterwards.</i>"
+    text: "<i>And it\u2019s not like I can\u2019t just finish my job afterwards."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -291,21 +290,21 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>I guess that means the Lord of Lust is dealt with.</i>
+    text: <i>I guess that means the Lord of Lust is dealt with.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>I showed my superiority, clearly.</i>
+    text: <i>I showed my superiority, clearly.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>Yep, I\u2019m going with that.</i>"
+    text: "<i>Yep, I\u2019m going with that."
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -319,28 +318,28 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>I hate to admit it, but she\u2019s right.</i>"
+    text: "<i>I hate to admit it, but she\u2019s right."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>A life of servitude, slavery, isn\u2019t one that breeds camaraderie.</i>"
+    text: "<i>A life of servitude, slavery, isn\u2019t one that breeds camaraderie."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Companionship.</i>
+    text: <i>Companionship.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>I need to get it where I can find it.</i>
+    text: <i>I need to get it where I can find it.
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -428,21 +427,21 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>I killed her.</i>
+    text: <i>I killed her.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>It\u2019s over.</i>"
+    text: "<i>It\u2019s over."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Thank the gods.</i>
+    text: <i>Thank the gods.
   - character: {fileID: 0}
     decision: 0
     narration: 1

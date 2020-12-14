@@ -43,7 +43,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>These demon\u2019s deals have been pretty hit or miss, eh?</i>"
+    text: "<i>These demon\u2019s deals have been pretty hit or miss, eh?"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -58,7 +58,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>Shaitan knows what I\u2019ve done. He knows who I work for. There\u2019s
-      no way he doesn\u2019t throw me to the proverbial wolves.</i>"
+      no way he doesn\u2019t throw me to the proverbial wolves."
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -294,7 +294,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>It feels good.</i>
+    text: <i>It feels good.
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -330,7 +330,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>A direct approach is the only option.</i>
+    text: <i>A direct approach is the only option.
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -434,7 +434,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Am I dead?</i>
+    text: <i>Am I dead?
   - character: {fileID: 0}
     decision: 0
     narration: 1

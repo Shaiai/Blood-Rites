@@ -72,7 +72,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>I\u2019ve done it! The Lord of Greed is down and out!</i>"
+    text: "<i>I\u2019ve done it! The Lord of Greed is down and out!"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -140,7 +140,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>Am I strong enough to fight this? This isn\u2019t the same beast I
-      just took down\u2026</i>"
+      just took down\u2026"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -201,7 +201,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: <i>This weapon is the only one capable of eliminating a Lord of Sin forever.
-      One stab is all it should take</i>
+      One stab is all it should take
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -270,28 +270,28 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>And why shouldn\u2019t I take the deal?</i>"
+    text: "<i>And why shouldn\u2019t I take the deal?"
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>What loyalty do I owe to Lucifer?</i>
+    text: <i>What loyalty do I owe to Lucifer?
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>The only thing the Lord of Pride has done for me is enslaving me. </i>
+    text: <i>The only thing the Lord of Pride has done for me is enslaving me.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>And I certianly will not be magnaminous for a Demonic Lord</i>
+    text: <i>And I certianly will not be magnaminous for a Demonic Lord
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -379,7 +379,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>The Covington Mansion has nothing on this. I\u2019m set for life!</i>"
+    text: "<i>The Covington Mansion has nothing on this. I\u2019m set for life!"
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -440,14 +440,14 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Tempting as that wealth is, turning against Lucifer terrifies me more.</i>
+    text: <i>Tempting as that wealth is, turning against Lucifer terrifies me more.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>He would know that I failed him, right? I can\u2019t risk it.</i>"
+    text: "<i>He would know that I failed him, right? I can\u2019t risk it."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -534,14 +534,14 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>I\u2019ve done it. A Lord of Sin is dead.</i>"
+    text: "<i>I\u2019ve done it. A Lord of Sin is dead."
   - character: {fileID: 0}
     decision: 0
     narration: 1
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>How many could say they've destroyed a Demonic Lord?</i>
+    text: <i>How many could say they've destroyed a Demonic Lord?
   - character: {fileID: 0}
     decision: 0
     narration: 1

@@ -58,7 +58,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>I\u2019m feeling confident.</i>"
+    text: "<i>I\u2019m feeling confident."
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -130,7 +130,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>Work that HE\u2019S done?</i>"
+    text: "<i>Work that HE\u2019S done?"
   - character: {fileID: 11400000, guid: 3bd0d3fe557bd3d488401d1976663fc7, type: 2}
     decision: 0
     narration: 0
@@ -189,8 +189,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "\u201CYou\u2019re <i>truly</i> incredible, my Lord. Where might I find
-      Shaitan?\u201D"
+    text: "\u201CYou\u2019re truly incredible, my Lord. Where might I find Shaitan?\u201D"
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -287,7 +286,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>This is large enough to house half the city.</i>
+    text: <i>This is large enough to house half the city.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -295,7 +294,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>I wouldn\u2019t mind just squatting here for the rest of my days when
-      this business with Lucifer is done. Assuming there is a time after.</i>"
+      this business with Lucifer is done. Assuming there is a time after."
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -335,14 +334,14 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: <i>That eliminates the front door. And the back door. And probably most
-      side doors.</i>
+      side doors.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>It eliminates pretty much every door.</i>
+    text: <i>It eliminates pretty much every door.
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -403,7 +402,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "<i>Then I\u2019ll just go for the closest door.</i>"
+    text: "<i>Then I\u2019ll just go for the closest door."
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -425,7 +424,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Now!</i>
+    text: <i>Now!
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -468,7 +467,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>What did I expect from the lair of the Lord of Wrath from Hell?</i>
+    text: <i>What did I expect from the lair of the Lord of Wrath from Hell?
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -490,4 +489,4 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Time to kill Shaitan.</i>
+    text: <i>Time to kill Shaitan.

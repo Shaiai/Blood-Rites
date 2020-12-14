@@ -44,7 +44,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Yeah, and 7 Virtues will all come down and bless my soul.</i>
+    text: <i>Yeah, and 7 Virtues will all come down and bless my soul.
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -141,7 +141,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: <i>She is the Lord of Lust, so she will probably want to have a lair that
-      breeds it.</i>
+      breeds it.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -273,7 +273,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>She has to be there. Nowhere else makes sense.</i>
+    text: <i>She has to be there. Nowhere else makes sense.
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -297,7 +297,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>I\u2019m not here for a good time. I\u2019m here because I have to
-      be.</i>"
+      be."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -305,7 +305,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>I\u2019m not here for a good time. I\u2019m here because I have to
-      be.</i>"
+      be."
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -313,7 +313,7 @@ MonoBehaviour:
     decision1: 
     decision2: 
     text: "<i>I\u2019m not here for a good time. I\u2019m here because I have to
-      be.</i>"
+      be."
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -335,7 +335,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Asmodeus is almost certainly hiding somewhere in this place.</i>
+    text: <i>Asmodeus is almost certainly hiding somewhere in this place.
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -350,7 +350,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Well, I should start at the bottom and work my way up.</i>
+    text: <i>Well, I should start at the bottom and work my way up.
   - character: {fileID: 0}
     decision: 0
     narration: 1

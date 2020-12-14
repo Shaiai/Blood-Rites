@@ -99,7 +99,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: "\u201CAnd you want me to offer a deal to <i>you</i>? A simple, lowly human?\u201D"
+    text: "\u201CAnd you want me to offer a deal to you? A simple, lowly human?\u201D"
   - character: {fileID: 11400000, guid: 73925ac2ce3467b4d8fa3d3a503fba90, type: 2}
     decision: 0
     narration: 0
@@ -252,28 +252,28 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>What could I do with power like that?</i>
+    text: <i>What could I do with power like that?
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>I could probably kill Shaitan myself and be free of him forever.</i>
+    text: <i>I could probably kill Shaitan myself and be free of him forever.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>But if I take it, what will happen to me if, or when Lucifer finds out</i>
+    text: <i>But if I take it, what will happen to me if, or when Lucifer finds out
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i> I need to decide what to do</i>
+    text: <i> I need to decide what to do
   - character: {fileID: 0}
     decision: 1
     narration: 0
@@ -287,42 +287,42 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i> I like the sound of that.</i>
+    text: <i> I like the sound of that.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>With power, I can gain more than freedom.</i>
+    text: <i>With power, I can gain more than freedom.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>With power, I can achieve my dreams.</i>
+    text: <i>With power, I can achieve my dreams.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>With power, there is nothing that can stop me.</i>
+    text: <i>With power, there is nothing that can stop me.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>I want that.</i>
+    text: <i>I want that.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>I need that.</i>
+    text: <i>I need that.
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
@@ -380,7 +380,7 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>This is a terrible deal.</i>
+    text: <i>This is a terrible deal.
   - character: {fileID: 0}
     decision: 0
     narration: 1
@@ -503,14 +503,14 @@ MonoBehaviour:
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>Why did I just say that?</i>
+    text: <i>Why did I just say that?
   - character: {fileID: 11400000, guid: dd5ca1083eb190c46b3c020893583c6a, type: 2}
     decision: 0
     narration: 0
     endOfChoice: 0
     decision1: 
     decision2: 
-    text: <i>...the moment. It fit the moment.</i>
+    text: <i>...the moment. It fit the moment.
   - character: {fileID: 0}
     decision: 0
     narration: 1
