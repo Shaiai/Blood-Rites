@@ -2229,6 +2229,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: speakerRight
       objectReference: {fileID: 0}
+    - target: {fileID: 974062659945489029, guid: 800a4997ad23ca840bc7a25bb95c8bbe, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: db17448f6e0d8124e9ddd1ffe459f06a, type: 3}
     - target: {fileID: 974062660248002400, guid: 800a4997ad23ca840bc7a25bb95c8bbe, type: 3}
       propertyPath: m_Color.r
       value: 0
