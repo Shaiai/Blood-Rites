@@ -21,11 +21,6 @@ public class PlayerHit : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.CompareTag("breakable"))
-        {
-            other.GetComponent<pot>().Smash();
-        }
-
         if(other.CompareTag("enemy"))
         {
             Debug.Log("Enemy Hit");
