@@ -56,14 +56,14 @@ public class BatBoy : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if(other.tag == "WeaponHitBox")
-        {
-            Vector2 difference = transform.position - other.transform.position;
-            transform.position = new Vector2(transform.position.x + difference.x, transform.position.y + difference.y);
-        }
-    }
+    //private void OnTriggerEnter2D(Collider2D other)
+    //{
+    //    if(other.tag == "WeaponHitBox")
+    //    {
+    //        Vector2 difference = transform.position - other.transform.position;
+    //        transform.position = new Vector2(transform.position.x + difference.x, transform.position.y + difference.y);
+    //    }
+    //}
 
   
 }

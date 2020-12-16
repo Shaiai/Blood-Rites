@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Greed
   m_EditorClassIdentifier: 
   fullName: Mammon
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 73f02d5cb893dad4fa69e7bd38a08cd8, type: 3}

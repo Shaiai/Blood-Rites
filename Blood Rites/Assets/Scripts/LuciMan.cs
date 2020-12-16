@@ -64,14 +64,14 @@ public class LuciMan : MonoBehaviour
         transform.position = Vector3.MoveTowards(transform.position, target.transform.position, speed * Time.deltaTime);  
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if(other.tag == "WeaponHitBox")
-        {
-            Vector2 difference = transform.position - other.transform.position;
-            transform.position = new Vector2(transform.position.x + difference.x, transform.position.y + difference.y);
-        }
-    }
+    //private void OnTriggerEnter2D(Collider2D other)
+    //{
+    //    if(other.tag == "WeaponHitBox")
+    //    {
+    //        Vector2 difference = (transform.position - other.transform.position);
+    //        transform.position = new Vector2((transform.position.x + difference.x) * 0.7f, (transform.position.y + difference.y) * 0.7f);
+    //    }
+    //}
 
   
 }

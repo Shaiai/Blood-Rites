@@ -126,7 +126,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  speed: 4
+  speed: 20
   health: 0
 --- !u!114 &6441786147916138253
 MonoBehaviour:
